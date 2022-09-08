@@ -566,6 +566,19 @@ h6 {
   bottom: 0;
 }
 
+#draggablecard1,
+#draggablecard2,
+#draggablecard3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  bottom: 0;
+  top: 0;
+  left: 0;
+  right: 0;
+  padding-bottom: 70px;  
+}
 
 @media (max-height: 768px),
 (max-width: 1200px) {
