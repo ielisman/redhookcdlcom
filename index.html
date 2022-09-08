@@ -123,7 +123,7 @@
   <!-- ======= Hero Section ======= -->
   <section id="hero">
     <div class="hero-container">
-      <div id="heroCarousel" data-bs-interval="5000" class="carousel slide carousel-fade" data-bs-ride="carousel">
+      <div id="heroCarousel" data-bs-interval="7000" class="carousel slide carousel-fade" data-bs-ride="carousel">
 
         <ol class="carousel-indicators" id="hero-carousel-indicators"></ol>
 
@@ -144,17 +144,35 @@
           </div>
 
           <!-- Slide 2 -->
-          <div class="carousel-item" style="background: #000">
-            <div class="carousel-container">
+          <div class="carousel-item" style="background: #fff;">
+            <div class="carousel-container" >
               <div class="carousel-content">             
                 <video id="myVideo" preload="auto" playsinline autoplay muted loop poster="assets/img/slide/slide3a_cabin.jpg">
                   <source src="assets/img/slide/slide3a.mp4" type="video/mp4">                  
                 </video>
+                <!--
                 <h2 class="animate__animated animate__fadeInDown"><span>ROAD TO CDL</span></h2>
                 <p class="animate__animated animate__fadeInUp" style="font-size: 1.35em; font-weight: 900; color: #fff">
                   CDL Permit - Medical Exam - Online Courses - Driving Lessons - Road Test
                 </p>
                 <a href="" class="btn-get-started animate__animated animate__fadeInUp">Learn More</a>
+                 -->
+                <div style="opacity: 0.83;">
+                  <div class="card text-white bg-dark mb-3 animate__animated animate__fadeInDown" 
+                       style="max-width: 23rem;"> <!-- text-white bg-dark | bg-light -->
+                    <div class="card-header" style="border: 1px solid white"><h3 style="color: #e96b56;">Road to CDL</h2></div>
+                    <div class="card-body" style="border: 1px solid white;">
+                      <p class="card-text animate__animated animate__fadeInUp" style="width: 100%; text-transform: uppercase;">
+                        CDL Permit
+                        <i class="bi bi-dash"></i> Medical Exam
+                        <i class="bi bi-dash"></i> Online Courses
+                        <i class="bi bi-dash"></i> Driving Lessons
+                        <i class="bi bi-dash"></i> Road Test
+                      </p>
+                      <a href="" class="btn-get-started animate__animated animate__fadeInUp">Learn More</a>
+                    </div>
+                  </div> 
+                </div> 
               </div>
             </div>
           </div>
@@ -172,14 +190,10 @@
             </div>
           </div>
 
+           <!-- Slide 4 -->
           <div class="carousel-item" style="background-image: url(assets/img/slide/RedHookDS.jpg)">
             <div class="carousel-container">
-              <div class="carousel-content">                                              
-                <!--
-                <video autoplay muted loop id="myVideo">
-                  <source src="assets/img/slide/school1.mp4" type="video/mp4">                  
-                </video>
-                -->
+              <div class="carousel-content">                                                              
                 <h2 class="animate__animated animate__fadeInDown"><span>Driving Lessons</span></h2>
                 <p class="animate__animated animate__fadeInUp" style="font-size: 1.35em; font-weight: 900; color: #000;">                  
                   PRE-TRIP INSPECTION | BACKING | PARKING | ROAD DRIVING
@@ -189,7 +203,8 @@
             </div>
           </div>
 
-          <div class="carousel-item" style="background-color: #000;">
+          <!-- Slide 5 -->
+          <div class="carousel-item" style="background-color: #fff;">
             <div class="carousel-container">
               <div class="carousel-content">                                              
                 <video id="myVideo2" preload="auto" playsinline autoplay muted loop poster="assets/img/slide/slide2a_cabin.jpg">
@@ -200,6 +215,76 @@
                   BOOKING ROAD TEST EARLIER IS ESSENTIAL
                 </p>
                 <a href="" class="btn-get-started animate__animated animate__fadeInUp">Learn Why</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="carousel-item" style="background-image: url(assets/img/slide/slide-3.jpg)">
+            <div class="carousel-container">
+              <div class="carousel-content">
+                
+                <!-- 
+                <div class="row featured" style="position: relative; display: flex; align-items: center; justify-content: center;">
+                  <div class="col-sm-7">
+                    <div class="icon-box" style="background: rgb(132, 112, 112);">
+                      <i class="bi bi-credit-card-2-front"></i>
+                      <h3><a href="">Step 1 - CDL Permit</a></h3>
+                      <p>As a First Step to become commercial driver you will need to get CDL Permit at local DMV first.
+                         You will need to learn theory and answer questions.
+                        <a href="">See more information on that here</a>
+                      </p>
+                    </div>
+                  </div>
+                </div>                
+                
+
+                <div class="card text-center">
+                  <div class="card-header">
+                    <ul class="nav nav-tabs card-header-tabs">
+                      <li class="nav-item">
+                        <a class="nav-link active" href="#">Active</a>
+                      </li>
+                      <li class="nav-item">
+                        <a class="nav-link" href="#">Link</a>
+                      </li>
+                      <li class="nav-item">
+                        <a class="nav-link disabled" href="#">Disabled</a>
+                      </li>
+                    </ul>
+                  </div>
+                  <div class="card-body">
+                    <h5 class="card-title">Special title treatment</h5>
+                    <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                    <a href="#" class="btn btn-primary">Go somewhere</a>
+                  </div>
+                </div>
+
+
+                <div class="card text-white bg-dark mb-3" style="max-width: 18rem;">
+                  <div class="card-header">Header</div>
+                  <div class="card-body">
+                    <h5 class="card-title">Dark card title</h5>
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                  </div>
+                </div>                
+
+
+                <div class="card border-dark mb-3" style="max-width: 18rem;">
+                  <div class="card-header">Header</div>
+                  <div class="card-body text-dark">
+                    <h5 class="card-title">Dark card title</h5>
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                  </div>
+                </div>
+                -->  
+                
+                <div class="card text-white bg-dark mb-3" style="max-width: 18rem;">
+                  <div class="card-header"><h3 style="color: #e96b56;">Road to CDL</h2></div>
+                  <div class="card-body">
+                    <p class="card-text" style="width: 90%">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                  </div>
+                </div> 
+
               </div>
             </div>
           </div>
@@ -220,7 +305,7 @@
 
   <main id="main">
 
-    <!-- ======= Featured Section ======= -->
+    <!-- ======= Featured Section ======= https://www.wikihow.com/Get-a-CDL-License-in-New-York -->
     <section id="featured" class="featured">
       <div class="container">
 
@@ -255,8 +340,6 @@
             </div>
           </div>
         </div>
-
-        
 
       </div>
     </section><!-- End Featured Section -->
