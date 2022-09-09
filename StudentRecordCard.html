@@ -6,20 +6,26 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <style>
-        .title {
+        .company-info {
             font-family: Verdana, Helvetica, sans-serif; font-size: 1.15rem; font-weight: 700; text-align: center;
         }
-        .address {
+        .company-address {
             font-family: Verdana, Helvetica, sans-serif; font-size: 1.03rem; font-weight: 500; text-align: center;
         }
-        .info {            
-            width: 100%; border: 1px solid black; padding: 0; margin: 0;
-            font-family: Verdana, Helvetica, sans-serif; font-size: 13px; text-align: center;
+
+        .customer-info {            
+            border: 1px solid black; border-collapse: collapse; width: 100%; border-spacing: 0px;
+            font-family: Verdana, Helvetica, sans-serif; font-size: 10px; padding: 5px;
         }
-        .brd {
-            border: 1px solid black;
-            
-        }
+        .customer-info td   { font-size: 10px; padding: 5px; }
+        .customer-info .tal { text-align: left; } 
+        .customer-info .nam { text-align: justify; font-size: 13px; }
+        .customer-info .brt { border-top: 1px solid black; } 
+        .customer-info .brd { border: 1px solid black; }
+
+        .record    { border: 1px solid black; border-collapse: collapse; width: 100%; border-spacing: 0px; }
+        .record td { border: 1px solid black; font-size: 10px; padding: 5px; }
+
     </style>
 
     <title>Student Record Card</title>
@@ -28,332 +34,68 @@
     
     <table width="100%">
 
-        <!-- Company Table -->
-        <tr>
+        <tr> <!-- Company Table -->
             <td>
                 <table width="100%">
                     <tr>
-                        <td colspan="7" class="title">
-                            RED HOOK COMMERCIAL DRIVING SCHOOL, INC.                                
-                        </td>
+                        <td colspan="7" class="company-info">RED HOOK COMMERCIAL DRIVING SCHOOL, INC.</td>
                     </tr>
                     <tr>
                         <td colspan="2">&nbsp;</td>
-                        <td class="address">
-                            201 DITMAS AVENUE<br>
-                            BROOKLYN, NY 11218<br>
-                            Tel. (917) 838-5177
-                        </td>
+                        <td class="company-address">201 DITMAS AVENUE<br>BROOKLYN, NY 11218<br>Tel. (917) 838-5177</td>
                     </tr>
                     <tr>
-                        <td colspan="7" class="title">
-                            STUDENT RECORD CARD                             
-                        </td>
+                        <td colspan="7" class="company-info">STUDENT RECORD CARD</td>
                     </tr>
                 </table>
             </td>    
         </tr>
-
-        <!-- Information Table -->
-        <tr>
+        
+        <tr> <!-- User Information Table -->
             <td>
-                <table class="brd" width=100% cellspacing="0" cellpadding="0" style="border-collapse: collapse; ">
+                <table class="customer-info">
                     <tr>                        
-                        <td colspan="1" style="text-align: left; font-size: 10px; padding: 5px; width: 10%">
-                            MR.<br>
-                            MRS.<br>
-                            MISS<br>
-                        </td>
-                        <td colspan="2" style="text-align: justify; padding: 5px; width: 25%">
-                            Igor Elisman
-                        </td>
-                        <td colspan="4" style="width: 55%;">&nbsp;</td>                                                     
+                        <td class="tal" style="width: 10%">MR.<br>MRS.<br>MISS<br></td>
+                        <td class="nam" style="width: 25%">&nbsp;</td>
+                        <td>&nbsp;</td>                                                  
                     </tr>
                     <tr>
-                        <td colspan="1" style="border-top: 1px solid black; text-align: left; font-size: 10px; padding: 5px; width: 30%">  
-                            <br>ADDRESS
-                        </td>
-                        <td style="border-top: 1px solid black; width:37%">
-                            &nbsp;
-                        </td>
-                        <td colspan="5" class="brd" style="text-align: left; font-size: 10px; padding: 5px; width: 70%">
-                            <br>HOME PHONE: 
-                        </td>
+                        <td class="brt" style="width: 30%"><br>ADDRESS:</td>
+                        <td class="brt" style="width: 37%">&nbsp;</td>
+                        <td class="brd" style="width: 33%"><br>HOME PHONE:</td>
                     </tr>
                     <tr>
-                        <td colspan="1" style="border-top: 1px solid black; text-align: left; font-size: 10px; padding: 5px; width: 30%">  
-                            <br>PERMIT #
-                        </td>
-                        <td style="border: 1px solid black; text-align: left; font-size: 10px; padding: 5px; width:37%">
-                            <br>HOME CITY#
-                        </td>
-                        <td colspan="5" class="brd" style="text-align: left; font-size: 10px; padding: 5px; width: 70%">
-                            <br>CONTRACT #: 
-                        </td>
+                        <td class="brt" style="width: 30%"><br>PERMIT #:</td>
+                        <td class="brd" style="width: 37%"><br>HOME CITY:</td>
+                        <td class="brd" style="width: 33%"><br>CONTRACT #:</td>
                     </tr>
                 </table>
             </td>
-        </tr>        
-        <!-- Record Card Table-->
-        <tr>
+        </tr>                
+        <tr> <!-- Record Card Table-->
             <td>
-                <table class="brd" width=100% cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+                <table class="record">
                     <tr>
-                        <td class="brd" style="width: 15%; font-size: 10px; padding: 5px;">
-                            LESSON #
-                        </td>
-                        <td class="brd" style="width: 15%; font-size: 10px; padding: 5px;">
-                            SERVICES
-                        </td>
-                        <td class="brd" style="width: 12%; font-size: 10px; padding: 5px;">
-                            DATE
-                        </td>
-                        <td class="brd" style="width: 13%; font-size: 10px; padding: 5px;">
-                            TIME
-                        </td>
-                        <td class="brd" style="width: 15%; font-size: 10px; padding: 5px;">
-                            RECEIPT #
-                        </td>
-                        <td class="brd" style="width: 30%; font-size: 10px; padding: 5px;">
-                            INSTRUCTOR
-                        </td>
+                        <td style="width: 15%;">LESSON #</td>
+                        <td style="width: 15%;">SERVICES</td>
+                        <td style="width: 12%;">DATE</td>
+                        <td style="width: 18%;">TIME</td>
+                        <td style="width: 15%;">RECEIPT #</td>
+                        <td style="width: 30%;">INSTRUCTOR</td>
                     </tr>
-                    <tr>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                    </tr>
-                    <tr>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                    </tr>                    
-                    <tr>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                    </tr>                    
-                    <tr>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                    </tr>                    
-                    <tr>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                    </tr>                    
-                    <tr>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                    </tr>                    
-                    <tr>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                    </tr>                    
-                    <tr>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                    </tr>                    
-                    <tr>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                    </tr>                    
-                    <tr>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                    </tr>                    
-                    <tr>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                    </tr>                    
-                    <tr>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                    </tr>                    
-                    <tr>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                    </tr>                    
-                    <tr>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                    </tr>                    
-                    <tr>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                    </tr>                    
-                    <tr>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                    </tr>                    
-                    <tr>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                    </tr>                    
-                    <tr>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                    </tr>                    
-                    <tr>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                    </tr>                    
-                    <tr>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                    </tr>                    
-                    <tr>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                    </tr>                    
-                    <tr>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                    </tr>                    
-                    <tr>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                    </tr>                    
-                    <tr>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                    </tr>                    
-                    <tr>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                    </tr>                    
-                    <tr>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                    </tr>                    
-                    <tr>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                    </tr>                    
-                    <tr>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                    </tr>                    
-                    <tr>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                        <td class="brd">&nbsp;</td>
-                    </tr>                                    
+                    <script>
+                        for (var i=0; i < 30; i++) {
+                            document.write("<tr>");
+                                for (var j=0; j<6; j++) {
+                                    document.write("<td class='brd'>&nbsp;</td>");
+                                }
+                            document.write("</tr>");
+                        }
+                    </script>                    
                 </table>
             </td>
         </tr>
     </table>
-
 </body>
+
 </html>
