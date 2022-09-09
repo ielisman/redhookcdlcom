@@ -15,16 +15,16 @@
 
         .customer-info {            
             border: 1px solid black; border-collapse: collapse; width: 100%; border-spacing: 0px;
-            font-family: Verdana, Helvetica, sans-serif; font-size: 10px; padding: 5px;
+            font-family: Verdana, Helvetica, sans-serif;
         }
-        .customer-info td   { font-size: 10px; padding: 5px; }
+        .customer-info td   { font-size: 11px; padding: 5px; }
         .customer-info .tal { text-align: left; } 
         .customer-info .nam { text-align: justify; font-size: 13px; }
         .customer-info .brt { border-top: 1px solid black; } 
         .customer-info .brd { border: 1px solid black; }
 
-        .record    { border: 1px solid black; border-collapse: collapse; width: 100%; border-spacing: 0px; }
-        .record td { border: 1px solid black; font-size: 10px; padding: 5px; }
+        .record    { border: 1px solid black; border-collapse: collapse; width: 100%; border-spacing: 0px; text-align: center;}
+        .record td { border: 1px solid black; font-size: 11px; padding: 5px; }
 
     </style>
 
@@ -76,15 +76,15 @@
             <td>
                 <table class="record">
                     <tr>
-                        <td style="width: 15%;">LESSON #</td>
-                        <td style="width: 15%;">SERVICES</td>
+                        <td style="width: 14%;">LESSON #:</td>
+                        <td style="width: 16%;">SERVICES</td>
                         <td style="width: 12%;">DATE</td>
-                        <td style="width: 18%;">TIME</td>
-                        <td style="width: 15%;">RECEIPT #</td>
-                        <td style="width: 30%;">INSTRUCTOR</td>
+                        <td style="width: 14%;">TIME</td>
+                        <td style="width: 20%;">RECEIPT #</td>
+                        <td style="width: 34%;">INSTRUCTOR</td>
                     </tr>
                     <script>
-                        for (var i=0; i < 30; i++) {
+                        for (var i=0; i < 23; i++) {
                             document.write("<tr>");
                                 for (var j=0; j<6; j++) {
                                     document.write("<td class='brd'>&nbsp;</td>");
