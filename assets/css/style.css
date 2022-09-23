@@ -745,6 +745,12 @@ section {
   color: #fff;
 }
 
+.featured .icon-box:hover p a{
+  color: rgb(162, 248, 205);
+  text-decoration: underline;
+  font-weight: 700;
+}
+
 /*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
@@ -889,7 +895,7 @@ section {
 --------------------------------------------------------------*/
 .counts .count-box {
   box-shadow: -10px -5px 40px 0 rgba(0, 0, 0, 0.1);
-  padding: 30px;
+  padding: 20px;
   width: 100%;
 }
 
@@ -904,10 +910,10 @@ section {
 .counts .count-box span {
   font-size: 42px;
   line-height: 24px;
-  display: block;
+  /*display: block;*/
   font-weight: 700;
   color: #545454;
-  margin-left: 50px;
+  margin-left: 15px;
 }
 
 .counts .count-box p {
