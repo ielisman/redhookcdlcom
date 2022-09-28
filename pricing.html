@@ -38,11 +38,35 @@
 <body>
 
   <!-- ======= Top Bar ======= -->
-  <section id="topbar" class="d-flex align-items-center">
-    <div class="container d-flex justify-content-center justify-content-md-between">
-      <div class="contact-info d-flex align-items-center">
-        <i class="bi bi-envelope d-flex align-items-center"><a href="mailto:contact@example.com">contact@example.com</a></i>
-        <i class="bi bi-phone d-flex align-items-center ms-4"><span>+1 5589 55488 55</span></i>
+  <section id="topbar" class="d-flex align-items-left">
+    <div class="container d-flex justify-content-md-between align-items-left">
+      <div class="contact-info d-flex justify-content-left align-items-left">
+        <table style="padding: 3px; margin: 0;" >
+            <tr>
+              <td>
+                <i class="bi bi-envelope d-flex align-items-center" style="font-size: 1.25rem;">
+                  <a style="font-size: 12px; white-space: nowrap;" href="mailto:info@redhookcdl.com">info@redhookcdl.com</a>
+                </i>
+              </td>
+              <td>
+                <i class="bi bi-telephone d-flex align-items-center ms-2" style="font-size: 1.25rem; white-space: nowrap;">
+                  <span style="font-size: 12px;">+1 (917) 838-5177</span>
+                </i>                
+              </td>  
+            </tr>
+            <tr>
+              <td>
+                <i class="bi bi-house-door d-flex align-items-center" style="font-size: 1.25rem;">
+                  <span style="font-size: 12px; white-space: nowrap;">201 Ditmas Ave, Brooklyn NY 11218</span>
+                </i>
+              </td>
+              <td>
+                <i class="bi bi-headset d-flex align-items-center ms-2" style="font-size: 1.25rem;">
+                  <span style="font-size: 12px; white-space: nowrap;">+1 (718) 743-9464</span>
+                </i> 
+              </td>
+            </tr>
+        </table>
       </div>
       <div class="social-links d-none d-md-flex align-items-center">
         <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
@@ -54,41 +78,40 @@
   </section>
 
   <!-- ======= Header ======= -->
-  <header id="header" class="d-flex align-items-center">
-    <div class="container d-flex justify-content-between align-items-center">
+  <header id="header" class="d-flex align-items-left">
+    <div class="container d-flex justify-content-between align-items-left">
 
       <div class="logo">
-        <h1><a href="index.html">Eterna</a></h1>
+        <!-- <a href="index.html">Eterna</a> -->
         <!-- Uncomment below if you prefer to use an image logo -->
-        <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+        <h1>
+            <a href="index.html">
+              <img src="assets/img/TruckLogo3.png" alt="" class="img-fluid">
+            </a>
+        </h1>        
       </div>
 
       <nav id="navbar" class="navbar">
         <ul>
           <li><a href="index.html">Home</a></li>
           <li><a href="about.html">About</a></li>
-          <li><a href="services.html">Services</a></li>
-          <li><a href="portfolio.html">Portfolio</a></li>
-          <li><a href="team.html">Team</a></li>
-          <li><a class="active" href="pricing.html">Pricing</a></li>
-          <li><a href="blog.html">Blog</a></li>
-          <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
-            <ul>
-              <li><a href="#">Drop Down 1</a></li>
-              <li class="dropdown"><a href="#"><span>Deep Drop Down</span> <i class="bi bi-chevron-right"></i></a>
+          <li><a href="process.html">CDL Process</a></li>
+          <li class="dropdown"><a href="#"><span>Services</span><i class="bi bi-chevron-down"></i></a>
+            <ul>              
+              <li class="dropdown"><a href="#"><span>Driving Lessons</span> <i class="bi bi-chevron-right"></i></a>
                 <ul>
-                  <li><a href="#">Deep Drop Down 1</a></li>
-                  <li><a href="#">Deep Drop Down 2</a></li>
-                  <li><a href="#">Deep Drop Down 3</a></li>
-                  <li><a href="#">Deep Drop Down 4</a></li>
-                  <li><a href="#">Deep Drop Down 5</a></li>
+                  <li><a href="#">Manual</a></li>
+                  <li><a href="#">Automatic</a></li>                  
                 </ul>
               </li>
-              <li><a href="#">Drop Down 2</a></li>
-              <li><a href="#">Drop Down 3</a></li>
-              <li><a href="#">Drop Down 4</a></li>
+              <li><a href="#">ELDT - Online Classes</a></li>
+              <li><a href="#">Booking Road Test</a></li>
+              <li><a href="#">Packages</a></li>
             </ul>
-          </li>
+          </li>          
+          <li><a href="team.html">Team</a></li>
+          <li><a class="active" href="pricing.html">Pricing</a></li>
+          <li><a href="blog.html">Blog</a></li>        
           <li><a href="contact.html">Contact</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
@@ -118,43 +141,48 @@
 
         <div class="row no-gutters">
 
-          <div class="col-lg-4 box">
-            <h3>Free</h3>
-            <h4>$0<span>per month</span></h4>
+          <div class="col-lg-3 box">
+            <h3>ELDT</h3>
+            <h4>$200<span>one time fee</span></h4>
             <ul>
-              <li><i class="bx bx-check"></i> Quam adipiscing vitae proin</li>
-              <li><i class="bx bx-check"></i> Nec feugiat nisl pretium</li>
-              <li><i class="bx bx-check"></i> Nulla at volutpat diam uteera</li>
-              <li class="na"><i class="bx bx-x"></i> <span>Pharetra massa massa ultricies</span></li>
-              <li class="na"><i class="bx bx-x"></i> <span>Massa ultricies mi quis hendrerit</span></li>
-            </ul>
-            <a href="#" class="buy-btn">Buy Now</a>
+              <li><i class="bx bx-check"></i> Entry Level Driving Training</li>
+              <li><i class="bx bx-check"></i> Mandatory per FMCSA</li>              
+              <li><i class="bx bx-check"></i> Online classes</li>                            
+              <li><i class="bx bx-check"></i> Will register you with DMV</li>
+            </ul>            
           </div>
 
-          <div class="col-lg-4 box featured">
-            <h3>Business</h3>
-            <h4>$29<span>per month</span></h4>
+          <div class="col-lg-3 box">
+            <h3>Driving Lessons</h3>
+            <h4>$100<span>per hour</span></h4>
             <ul>
-              <li><i class="bx bx-check"></i> Quam adipiscing vitae proin</li>
-              <li><i class="bx bx-check"></i> Nec feugiat nisl pretium</li>
-              <li><i class="bx bx-check"></i> Nulla at volutpat diam uteera</li>
-              <li><i class="bx bx-check"></i> Pharetra massa massa ultricies</li>
-              <li><i class="bx bx-check"></i> Massa ultricies mi quis hendrerit</li>
-            </ul>
-            <a href="#" class="buy-btn">Buy Now</a>
+              <li><i class="bx bx-check"></i> Both Manual or Automatic</li>
+              <li><i class="bx bx-check"></i> Pre-Trip Inspection Lessons</li>
+              <li><i class="bx bx-check"></i> Basic Driving Skills Lessons</li>
+              <li><i class="bx bx-check"></i> Road Driving Lessons</li>              
+            </ul>            
           </div>
 
-          <div class="col-lg-4 box">
-            <h3>Developer</h3>
-            <h4>$49<span>per month</span></h4>
+          <div class="col-lg-3 box">
+            <h3>Truck for Road Test</h3>
+            <h4>$300<span>one time fee</span></h4>
             <ul>
-              <li><i class="bx bx-check"></i> Quam adipiscing vitae proin</li>
-              <li><i class="bx bx-check"></i> Nec feugiat nisl pretium</li>
-              <li><i class="bx bx-check"></i> Nulla at volutpat diam uteera</li>
-              <li><i class="bx bx-check"></i> Pharetra massa massa ultricies</li>
-              <li><i class="bx bx-check"></i> Massa ultricies mi quis hendrerit</li>
-            </ul>
-            <a href="#" class="buy-btn">Buy Now</a>
+              <li><i class="bx bx-check"></i> Both Manual or Automatic</li>
+              <li><i class="bx bx-check"></i> <b>Aqueduct Queens location</b></li>
+              <li><i class="bx bx-check"></i> Bring active driver license</li>
+              <li><i class="bx bx-check"></i> Bring active CLP permit</li>              
+            </ul>            
+          </div>
+
+          <div class="col-lg-3 box">
+            <h3>Road Test Fee</h3>
+            <h4>$40<span>per road test</span></h4>
+            <ul>
+              <li><i class="bx bx-check"></i> DMV Mandatory Fee</li>
+              <li><i class="bx bx-check"></i> Register in advance</li>
+              <li><i class="bx bx-check"></i> Rebooking</li>
+              <li><i class="bx bx-check"></i> No cancel fee 3 days prior</li>              
+            </ul>            
           </div>
 
         </div>
