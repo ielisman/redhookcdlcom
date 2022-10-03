@@ -1,9 +1,9 @@
 body {
-  background: #f5f3e7;  
+  background: white;  /*#f5f3e7*/
 }
 
 .wrapper {
-  padding: 50px 100px;
+  padding: 0px 0px;
 }
 
 .svg-container { 
@@ -13,7 +13,7 @@ body {
 	padding-bottom: 100%;
 	vertical-align: middle; 
 	overflow: hidden; 
-  	background: #f5f3e7;	
+  	background: white; /*#f5f3e7*/
 }
 
 .svg-content { 
@@ -23,6 +23,7 @@ body {
 	left: 0;	
 }
 
+/*
 // line {
 //   //position: relative;
 //   z-index: -1;
@@ -32,3 +33,4 @@ body {
 //   //position: relative;
 //   z-index: 1;
 // }
+*/
