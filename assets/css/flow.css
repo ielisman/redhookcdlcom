@@ -3,15 +3,16 @@ body {
 }
 
 .wrapper {
-  padding: 0px 0px;
+	border: 0px solid green;
+  	padding: 0px 0px;
 }
 
 .svg-container { 
 	display: inline-block;
 	position: relative;
 	width: 100%;
-	padding-bottom: 100%;
-	vertical-align: middle; 
+	padding-bottom: 30%;
+	vertical-align: center; 
 	overflow: hidden; 
   	background: white; /*#f5f3e7*/
 }
