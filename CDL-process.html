@@ -148,15 +148,19 @@
       <div class="container">
 
         <div class="cdlprocessh1">
-          <h1>Here you will find a detailed explanation of CDL Process from A to Z</h1>
+          <h1>Please read detailed explanation of CDL Process</h1>
         </div>
 
-        <div style="width: 100%;" name="cdlprocessflow">
-            <iframe src="flow.html" scrolling="no" class="col-md-4 d-flex align-items-center justify-content-center"
-            style="width: 110%; height:385px; max-height: 500px;">
+        <div style="width: 100%;" name="cdlprocessflow" id="cdlprocessflow">
+            <iframe src="flow.html" scrolling="no" class="col-md-4 d-flex align-items-center justify-content-center" style="width: 110%; height:385px; max-height: 500px;">
               <!-- onload="this.insertAdjacentHTML('afterend', (this.contentDocument.body||this.contentDocument).innerHTML);this.remove()" -->
             </iframe>  
-        </div>
+        </div>                
+        <script lang="JavaScript">          
+          if ( /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream ) { // diagram text is not properly aligned in IOS devices, therefore using image instead
+            document.getElementById('cdlprocessflow').innerHTML = "<img src='assets/img/cdl-process/CDL-Process-Diagram.jpg' alt='CDL Process Diagram' class='img-fluid'>";            
+          } 
+        </script>
 
         <!-- Commercial Learner Permit group -->
         <div class="card mb-3" style="max-width: 100%;">
