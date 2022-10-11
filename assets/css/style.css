@@ -907,6 +907,16 @@ section {
 /*--------------------------------------------------------------
 # Our Services
 --------------------------------------------------------------*/
+
+.servicesh1 h1 {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  font-size: 1.9rem;
+  margin: 30px 30px 30px 30px;
+  
+}
+
 .services .icon-box {
   text-align: center;
   border: 1px solid #ededed;
