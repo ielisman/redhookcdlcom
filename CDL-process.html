@@ -156,9 +156,10 @@
               <!-- onload="this.insertAdjacentHTML('afterend', (this.contentDocument.body||this.contentDocument).innerHTML);this.remove()" -->
             </iframe>  
         </div>                
-        <script lang="JavaScript">
-          alert(navigator.userAgent + "; " + window.MSStream + "; " + navigator.maxTouchPoints);
-          if ( /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream ) { // diagram text is not properly aligned in IOS devices, therefore using image instead        
+        <script lang="JavaScript">          
+          isIOS = /iPad|iPhone|iPod|Macintosh|MacIntel/.test(navigator.userAgent) && !window.MSStream;
+          isIPad = navigator.maxTouchPoints && navigator.maxTouchPoints > 2;
+          if (isIOS || isIpad) { // diagram text is not properly aligned in IOS devices, therefore using image instead        
             document.getElementById('cdlprocessflow').innerHTML = "<img src='assets/img/cdl-process/CDL-Process-Diagram.jpg' alt='CDL Process Diagram' class='img-fluid'>";            
           } 
         </script>
