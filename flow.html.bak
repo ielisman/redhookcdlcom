@@ -1,0 +1,184 @@
+<!-- 
+    https://codepen.io/BillKroger/pen/NdGybP - concrete example
+    this and other flowchart techniques:
+    https://onaircode.com/css-flowchart-examples-tree-view/
+    https://onaircode.com/bootstrap-flowchart-examples/
+-->
+<head>
+
+  <title>CDL Process Diagram - how to get CDL License in New York</title>
+  <meta content="CDL Process Diagram - how to get CDL License in New York" name="description">
+  <meta content="" name="keywords">
+
+  <link href="assets/css/flow.css" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|PT+Sans|Raleway" rel="stylesheet">
+
+
+</head>
+
+<script>
+var svg = document.getElementsByTagName("svg");
+var rect = document.getElementsByTagName("rect");
+var text = document.createElementNS('http://www.w3.org/2000/svg', 'text');
+text.setAttribute('x', '10');
+text.setAttribute('y', '20');
+text.setAttribute('fill', '#000');
+text.textContent = 'Red Hook Commercial Driving School, Inc.';
+</script>
+
+<div class="wrapper">
+<div class="svg-container">
+  <svg version="1.1" viewBox="18 18 535 500" preserveAspectRatio="xMinYMin meet" class="svg-content">
+
+    <defs>
+      <marker id="arrow" markerWidth="4" markerHeight="10" viewBox="-2 -4 4 4" refX="0" refY="0" markerUnits="strokeWidth" orient="auto">
+        <polyline points="1.5,-1.5 0,0 1.5,1.5" stroke="#443c3d" stroke-width="0.7px" fill="none"/>
+      </marker>
+    </defs>
+
+
+    <g class="box-group">
+      <g transform="translate(-5)">
+	      <circle fill="#000" cx="55" cy="50" r="30" opacity="1" />
+        <text x="28" y="58" font-family="Open Sans Condensed" font-size="26" stroke="none" fill="#f5f3e7" font-weight="100" style="text-transform:uppercase; letter-spacing: 1px">
+          Start
+        </text>        
+      </g>
+
+      <line x1="83" x2="97" y1="50" y2="50" stroke-width="2" stroke="#443c3d" stroke-dasharray="2,1" />
+
+      <g transform="translate(98)">
+      <rect fill="#66cc00" x="2" y="25" rx="3" ry="3" width="91.5" height="50" />
+      <text x="3.5" y="37" font-family="Open Sans Condensed" font-size="7" stroke="none" fill="black" font-weight="900" style="letter-spacing: 1px">
+      	Non-CDL NYS Driver License
+      	<tspan x="7" y="47" font-family="Open Sans Condensed" font-size="6.7" stroke="none" fill="black" font-weight="900" style="letter-spacing: 1px">
+      		or CDL from Another State
+        </tspan>
+        <tspan x="26" dy="17" font-family="Open Sans Condensed" font-size="14" stroke="none" fill="#f5f3e7" font-weight="900" style="text-transform:uppercase; letter-spacing: 1px">
+              STEP #1
+        </tspan>
+      </text>
+      </g>
+
+      <line x1="193.7" x2="205" y1="50" y2="50" stroke-width="2" stroke="#443c3d" stroke-dasharray="2,1" />
+
+      <g transform="translate(205)">
+      <rect fill="#66cc00" x="2" y="25" rx="3" ry="3" width="90" height="50" />
+      <text x="9" y="37" font-family="Open Sans Condensed" font-size="7" stroke="none" fill="black" font-weight="900" style="letter-spacing: 1px">
+      	Prepare for Written Test
+      	<tspan x="9" y="47" font-family="Open Sans Condensed" font-size="6.7" stroke="none" fill="black" font-weight="900" style="letter-spacing: 1px;">
+			    <a href="https://dmv.ny.gov/node/2067" target="_blank" style="text-decoration: underline;">Study CDL Driver Manual</a></tspan>
+        <tspan x="26" dy="17" font-family="Open Sans Condensed" font-size="14" stroke="none" fill="#f5f3e7" font-weight="900" style="text-transform:uppercase; letter-spacing: 1px">
+		    STEP #2
+        </tspan>
+      </text>
+      </g>
+
+      <line x1="299" x2="310" y1="50" y2="50" stroke-width="2" stroke="#443c3d" stroke-dasharray="2,1" />
+
+      <g transform="translate(310)">      
+      <rect fill="#66cc00" x="2" y="25" rx="3" ry="3" width="93" height="50" />
+      <text x="3.3" y="37" font-family="Open Sans Condensed" font-size="6.9" stroke="none" fill="black" font-weight="900" style="letter-spacing: 1px">
+      	Apply for Commercial Permit
+      	<tspan x="5" y="47" font-family="Open Sans Condensed" font-size="6.3" stroke="none" fill="black" font-weight="900" style="letter-spacing: 1px">
+      		at DMV. <tspan><a href="https://dmv.ny.gov/forms/mv44.pdf" target="_blank" style="text-decoration: underline;">Form MV44.</a></tspan> Fee $10
+        </tspan>
+        <tspan x="26" dy="17" font-family="Open Sans Condensed" font-size="14" stroke="none" fill="#f5f3e7" font-weight="900" style="text-transform:uppercase; letter-spacing: 1px">
+              STEP #3
+        </tspan>
+      </text>
+      </g>
+
+      <line x1="407" x2="419" y1="50" y2="50" stroke-width="2" stroke="#443c3d" stroke-dasharray="2,1" />
+
+      <g transform="translate(418)">      
+      <rect fill="#66cc00" x="2" y="25" rx="3" ry="3" width="93" height="50" />
+      <text x="7" y="37" font-family="Open Sans Condensed" font-size="7.3" stroke="none" fill="black" font-weight="900" style="letter-spacing: 1px">
+      	Pay Road (Skills) Test Fee
+      	<tspan x="7" y="47" font-family="Open Sans Condensed" font-size="6.3" stroke="none" fill="black" font-weight="900" style="letter-spacing: 1px">      		
+          early
+          <tspan><a href="https://transact3.dmv.ny.gov/skillstestpayment/" target="_blank" style="text-decoration: underline;">$40 online</a></tspan>
+          or at DMV
+        </tspan>
+        <tspan x="26" dy="17" font-family="Open Sans Condensed" font-size="14" stroke="none" fill="#f5f3e7" font-weight="900" style="text-transform:uppercase; letter-spacing: 1px">
+              STEP #4
+        </tspan>
+      </text>
+      </g>
+
+    </g>
+
+    <line x1="467" x2="467" y1="78" y2="92" stroke-width="2" stroke="#443c3d" stroke-dasharray="2,1" />
+
+    <g class="box-group" transform="translate(0,70)">
+      
+      <g transform="translate(-5)">
+	      <circle fill="#000" cx="55" cy="50" r="30" opacity="1" />
+        <text x="37" y="58" font-family="Open Sans Condensed" font-size="26" stroke="none" fill="#f5f3e7" font-weight="100" style="text-transform:uppercase; letter-spacing: 1px">End</text>
+      </g>
+
+      <line x1="97.8" x2="83" y1="50" y2="50" stroke-width="2" stroke="#443c3d" stroke-dasharray="2,1" />
+
+      <g transform="translate(98)">
+      <rect fill="#66cc00" x="2" y="25" rx="3" ry="3" width="91" height="50" />
+      <text x="12" y="37" font-family="Open Sans Condensed" font-size="7.3" stroke="none" fill="black" font-weight="900" style="letter-spacing: 1px">
+        Take Road (Skills) Test
+        <tspan x="3.5" y="47" font-family="Open Sans Condensed" font-size="6.1" stroke="none" fill="black" font-weight="900" style="letter-spacing: 1px">      
+        14 days after receiving Permit
+        <tspan x="26" dy="17" font-family="Open Sans Condensed" font-size="14" stroke="none" fill="#f5f3e7" font-weight="900" style="text-transform:uppercase; letter-spacing: 1px">
+              STEP #8
+        </tspan>
+      </text>
+      </g>
+
+      <line x1="205" x2="193.7" y1="50" y2="50" stroke-width="2" stroke="#443c3d" stroke-dasharray="2,1" />
+
+      <g transform="translate(205)">
+      <rect fill="#66cc00" x="2" y="25" rx="3" ry="3" width="90" height="50" />
+      <text x="4" y="37" font-family="Open Sans Condensed" font-size="6.77" stroke="none" fill="black" font-weight="900" style="letter-spacing: 1px">
+        Schedule Road (Skills) Test
+        <tspan x="7" y="47" font-family="Open Sans Condensed" font-size="6.7" stroke="none" fill="black" font-weight="900" style="letter-spacing: 1px">      
+        Via our school or
+        <tspan><a href="https://nyrtspublicsite.azurewebsites.net/" target="_blank" style="text-decoration: underline;">online</a></tspan>
+        <tspan x="26" dy="17" font-family="Open Sans Condensed" font-size="14" stroke="none" fill="#f5f3e7" font-weight="900" style="text-transform:uppercase; letter-spacing: 1px">
+              STEP #7
+        </tspan>
+      </text>
+      </g>
+
+      <line x1="310" x2="299" y1="50" y2="50" stroke-width="2" stroke="#443c3d" stroke-dasharray="2,1" />
+
+      <g transform="translate(310)">
+        <polygon points="63,20 100,40 100,80 63,100 20,80 20,40" fill="#72508d" transform="translate(-12,-10)"/>
+      <rect fill="#72508d" stroke="#72508d" stroke-width="0" x="2" y="25" rx="3" ry="3" width="93" height="50" />
+      <text x="15" y="37" font-family="Open Sans Condensed" font-size="7" stroke="none" fill="#f5f3e7" font-weight="900" style="letter-spacing: 1px">
+        Prepare for Road Test
+        <tspan x="5" y="47" font-family="Open Sans Condensed" font-size="6.3" stroke="none" fill="#f5f3e7" font-weight="900" style="letter-spacing: 1px">
+          Driving Lessons at our school
+        </tspan>
+        <tspan x="26" dy="17" font-family="Open Sans Condensed" font-size="14" stroke="none" fill="#f5f3e7" font-weight="900" style="text-transform:uppercase; letter-spacing: 1px">
+              STEP #6
+        </tspan>
+      </text>
+      </g>
+
+      <line x1="418" x2="406" y1="50" y2="50" stroke-width="2" stroke="#443c3d" stroke-dasharray="2,1" />
+
+      <g transform="translate(418)">
+        <rect fill="#66cc00" x="2" y="25" rx="3" ry="3" width="93" height="50" />
+        <text x="5" y="37" font-family="Open Sans Condensed" font-size="7" stroke="none" fill="black" font-weight="900" style="letter-spacing: 1px">
+          Entry Level Driving Training
+          <tspan x="9" y="47" font-family="Open Sans Condensed" font-size="5.95" stroke="none" fill="black" font-weight="900" style="letter-spacing: 1px">      		
+            ELDT School Fee $200.
+            <tspan><a href="https://dmv.ny.gov/commercial-drivers/entry-level-driver-training-faq" target="_blank" style="text-decoration: underline;">FAQ</a></tspan>
+          </tspan>
+          <tspan x="26" dy="17" font-family="Open Sans Condensed" font-size="14" stroke="none" fill="#f5f3e7" font-weight="900" style="text-transform:uppercase; letter-spacing: 1px">
+                STEP #5
+          </tspan>
+        </text>
+      </g>
+    </g>
+
+	</svg>
+</div>
+</div>

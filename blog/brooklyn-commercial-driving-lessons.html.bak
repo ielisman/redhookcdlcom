@@ -1,0 +1,450 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>Blog Commercial Driving Lessons - dos and donts</title>
+  <meta content="Article about Commercial Driving Lessons - dos and donts in New York" name="description">
+  <meta content="" name="keywords">
+
+  <base href="../"/>
+
+  <!-- Favicons -->
+  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/animate.css/animate.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
+
+  <!-- =======================================================
+  * Template Name: Eterna - v4.8.1
+  * Template URL: https://bootstrapmade.com/eterna-free-multipurpose-bootstrap-template/
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
+</head>
+
+<body>
+
+  <!-- ======= Top Bar ======= -->
+  <section id="topbar" class="d-flex align-items-left">
+    <div class="container d-flex justify-content-md-between align-items-left">
+      <div class="contact-info d-flex justify-content-left align-items-left">
+        <table style="padding: 3px; margin: 0;">
+          <tr>
+            <td colspan="2">
+              <div style="color: white; font-size: 1.15rem;">                
+                &nbsp;Red Hook Commercial Driving School, Inc.
+              </div>              
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <i class="bi bi-house-door d-flex align-items-center" style="font-size: 1.25rem;">
+                <span style="font-size: 12px; white-space: nowrap;">201 Ditmas Ave, Brooklyn NY 11218</span>
+              </i>
+            </td>
+            <td>
+              <i class="bi bi-telephone d-flex align-items-center ms-2"
+                style="font-size: 1.25rem; white-space: nowrap;">
+                <span style="font-size: 12px;">+1 (646) 250-5429</span>
+              </i>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <i class="bi bi-envelope d-flex align-items-center" style="font-size: 1.25rem;">                
+                <a style="font-size: 12px; white-space: nowrap;"
+                  href="mailto:info@redhookcdl.com">info@redhookcdl.com</a>
+              </i>
+            </td>
+            <td>
+              <i class="bi bi-headset d-flex align-items-center ms-2" style="font-size: 1.25rem;">
+                <span style="font-size: 12px; white-space: nowrap;">+1 (718) 743-9464</span>
+              </i>
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div class="social-links d-none d-md-flex align-items-center"  style="font-size: 1.15rem;">        
+        <a href="https://www.facebook.com/people/Red-Hook-Commercial-Driving-School-INC/100067190119635/" class="facebook" target="_blank"><i class="bi bi-facebook"></i></a>
+        <a href="index.html" class="instagram"><i class="bi bi-instagram"></i></a>
+        <a href="index.html" class="linkedin"><i class="bi bi-linkedin"></i></a>
+        <a href="https://youtu.be/njDUQ5oBYBI" class="youtube" target="_blank"><i class="bi bi-youtube"></i></a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ======= Header ======= -->
+  <header id="header" class="d-flex align-items-left">
+    <div class="container d-flex justify-content-between align-items-left">
+
+      <div class="logo">
+        <!-- <a href="index.html">Eterna</a> -->
+        <!-- Uncomment below if you prefer to use an image logo -->
+        <h3>          
+          <a href="index.html">
+            <img src="assets/img/TruckLogo3.png" alt="" class="img-fluid">
+          </a>
+        </h3>
+      </div>
+
+      <nav id="navbar" class="navbar">
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="about.html">About</a></li>
+          <li><a href="CDL-process.html">CDL Process</a></li>
+          <li class="dropdown"><a href="brooklyn-cdl-services.html"><span>Services</span><i class="bi bi-chevron-down"></i></a>
+            <ul>
+              <li class="dropdown"><a href="services/brooklyn-cdl-driving-lessons.html"><span>Driving Lessons</span> <i class="bi bi-chevron-right"></i></a>
+                <ul>
+                  <li><a href="services/driving-lessons/brooklyn-manual-transmission-cdl-driving-lessons.html">Manual</a></li>
+                  <li><a href="services/driving-lessons/brooklyn-automatic-transmission-cdl-driving-lessons.html">Automatic</a></li>
+                </ul>
+              </li>
+              <li><a href="services/brooklyn-eldt-lessons.html">ELDT - Online Classes</a></li>
+              <li><a href="services/booking-cdl-road-test.html">Booking Road Test</a></li>
+              <li><a href="services/brooklyn-packages.html">Packages</a></li>
+              <li><a href="services/brooklyn-non-cdl-driving-lessons.html">Non-CDL Driving Lessons</a></li>
+            </ul>
+          </li>
+          <li><a href="pricing.html">Pricing</a></li>
+          <li><a class="active" href="blog.html">Blog</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+        <i class="bi bi-list mobile-nav-toggle"></i>
+      </nav><!-- .navbar -->
+
+    </div>
+  </header><!-- End Header -->
+  <main id="main">
+
+    <!-- ======= Breadcrumbs ======= -->
+    <section id="breadcrumbs" class="breadcrumbs">
+      <div class="container">
+
+        <ol>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="blog.html">Blog</a></li>
+        </ol>
+        <h2>Commercial Driving Lessons - DOs and DONTs</h2>
+
+      </div>
+    </section><!-- End Breadcrumbs -->
+
+    <!-- ======= Blog Single Section ======= -->
+    <section id="blog" class="blog">
+      <div class="container" data-aos="fade-up">
+
+        <div class="row">
+
+          <div class="col-lg-8 entries">
+
+            <article class="entry entry-single">
+
+              <div class="entry-img">
+                <img src="assets/img/blog/brooklyn-commercial-driving-lessons.jpg" alt="" class="img-fluid">
+              </div>
+
+              <h1 class="entry-title">
+                <a href="brooklyn-commercial-driving-lessons.html">Commercial Driving Lessons - DOs and DONTs</a>
+              </h1>
+
+              <div class="entry-meta">
+                <ul>
+                  <li class="d-flex align-items-center"><i class="bi bi-person"></i> <a href="brooklyn-commercial-driving-lessons.html">Updated by Igor</a></li>
+                  <li class="d-flex align-items-center"><i class="bi bi-clock"></i> <a href="brooklyn-commercial-driving-lessons.html"><time datetime="2023-05-30">May 30, 2023</time></a></li>                  
+                </ul>
+              </div>
+
+              <div class="entry-content">
+                <p>
+                  So you've got your Commercial Learner's Permit. Now you are ready to take lessons!
+                </p>
+
+                <p>
+                  What do you do? Let me present a quote made by John C. Maxwell - The no. 1 New York Times bestselling author, coach, and speaker.
+                </p>
+
+                <blockquote>
+                  <p>
+                    Life is a matter of choices, and every choice you make makes you.
+                  </p>
+                </blockquote>
+
+                <p>
+                  Yet, to make the right choices, you need a guide. If you are new to some profession, let experienced professionals guide you. 
+                  Of course, sometimes you can figure it out on your own but the pro guidance wins in most cases. 
+                </p>
+
+                <h3>How can we help you?</h3>
+                <p>
+                  My name is Yefim and I am the owner of Red Hook Commerical Driving School! 
+                  Of course, it is the nature of most humans to find the best deals, to save themselves money - and this is understandable. 
+                  But, one thing where you need to invest in is your education. 
+                  Be it rocket science or ballet or a CDL school, you want to invest in your education in the most efficient way. 
+                  Otherwise, it will cost you much more later.
+                </p>
+                <img src="assets/img/blog/brooklyn-RedHookCommercial-Owner-Yefim.jpg" class="img-fluid" alt="">
+
+                <h3>It is a common mistake new students make!</h3>
+                <p>
+                  Commercial truck education is not comparable to your regular car education. 
+                  It is much more complicated and takes an effort to learn and practice. <br>
+                  We recommend taking at least <b>10 lessons</b> to get a feel of it; then learn Commercial Driver's Manual diligently. And then you may have a chance to succeed with Road Test also called Skills Test. <br>
+                  For many, it seems like an excessive amount of lessons and money. Believe us, it is the bare minimum.                  
+                  People take less than that, fail most of the time during the road test, come back and take more lessons again; pay again for the truck to go to a new road rest. <br>
+                  This picture keeps repeating in our school and every other school in the nation. <br>
+                  <b>At the end of the day, it costs students much more than our initial recommendation.</b> <br>
+                  So, we warned you :) - take this seriously! At the end of the day, our school cares more about students passing their exams for the very first time - it is our reputation. <br>
+                  Also, don't expand your education in months, our memory has the ability to erase some details. Try to accommodate your lessons within a month. <br>
+                  You invest in your career! You will get paid well! So invest smart right from the start!
+                </p>
+                <h3>Your stunt double!</h3>
+                <p>
+                  We have a few cases from time to time when some students asked someone else to take an exam for them.
+                  This is a <span style="color: red; font-weight: 700;">BIG and RED "NO"</span>. Don't even think about that. 
+                  First of all, it is against the law - it may impact you, our school, and the community around you!
+                  CDL Test is about safety first and foremost! Do not jeopardize your own safety and the safety of the people around you!
+                </p>
+                <h3>ELDT</h3>
+                <p>
+                  Talking about safety! <a href="https://www.fmcsa.dot.gov/">Federal Motor Carrier Safety Administration or FMCSA</a> made a new rule on Feb 7, 2022.
+                  You should take ELDT or Entry Level Driver Training. This is Mandatory. There is new material to learn here with the goal to decrease accidents on the road.
+                  Some students don't think it is Mandatory. Unfortunately, if you do not sign up for ELDT, they won't allow you to take Road Test. That's a new Federal Rule.
+                  If you decide to take it with our school, we will enroll you and register you with USDOT FMCSA TPR system. 
+                  The only exception to this rule is if you have Learner's Permit before Feb 7, 2022, extended it and it is still valid.
+                </p>
+
+                <h3>And The Last Thing - Bring Your Licenses to Road Test!</h3>
+                <p>
+                  Talking about the validity of your documents! Please ensure you bring your active, non-expired New York Non-CDL (or regular) Driver License 
+                  and active, non-expired New York Commercial Learner's Permit. From time to time, people bring expired documents to Road Tests. Or forget them.
+                  Please make sure you don't do that! Otherwise, examiners won't allow you to take the Road Test!
+                </p>
+
+              </div>
+
+              <!--
+              <div class="entry-footer">
+                <i class="bi bi-folder"></i>
+                <ul class="cats">
+                  <li><a href="#">Business</a></li>
+                </ul>
+
+                <i class="bi bi-tags"></i>
+                <ul class="tags">
+                  <li><a href="#">Creative</a></li>
+                  <li><a href="#">Tips</a></li>
+                  <li><a href="#">Marketing</a></li>
+                </ul>
+              </div>
+              -->
+
+            </article><!-- End blog entry -->
+
+            <!--
+            <div class="blog-author d-flex align-items-center">
+              <img src="assets/img/blog/blog-author.jpg" class="rounded-circle float-left" alt="">
+              <div>
+                <h4>Jane Smith</h4>
+                <div class="social-links">
+                  <a href="https://twitters.com/#"><i class="bi bi-twitter"></i></a>
+                  <a href="https://facebook.com/#"><i class="bi bi-facebook"></i></a>
+                  <a href="https://instagram.com/#"><i class="biu bi-instagram"></i></a>
+                </div>
+                <p>
+                  Itaque quidem optio quia voluptatibus dolorem dolor. Modi eum sed possimus accusantium. Quas repellat voluptatem officia numquam sint aspernatur voluptas. Esse et accusantium ut unde voluptas.
+                </p>
+              </div>
+            </div>
+            --><!-- End blog author bio -->
+
+
+          </div><!-- End blog entries list -->
+
+          <div class="col-lg-4">
+
+            <div class="sidebar">
+
+              <!--
+              <h3 class="sidebar-title">Search</h3>
+              <div class="sidebar-item search-form">
+                <form action="">
+                  <input type="text">
+                  <button type="submit"><i class="bi bi-search"></i></button>
+                </form>
+              </div>
+              --><!-- End sidebar search formn-->
+
+              <!--
+              <h3 class="sidebar-title">Categories</h3>
+              <div class="sidebar-item categories">
+                <ul>
+                  <li><a href="#">General <span>(25)</span></a></li>
+                  <li><a href="#">Lifestyle <span>(12)</span></a></li>
+                  <li><a href="#">Travel <span>(5)</span></a></li>
+                  <li><a href="#">Design <span>(22)</span></a></li>
+                  <li><a href="#">Creative <span>(8)</span></a></li>
+                  <li><a href="#">Educaion <span>(14)</span></a></li>
+                </ul>
+              </div>
+              --><!-- End sidebar categories-->
+
+              <h3 class="sidebar-title">Recent Posts</h3>
+              <div class="sidebar-item recent-posts">
+                <div class="post-item clearfix">
+                  <img src="assets/img/blog/brooklyn-truck-driving-career.jpg" alt="Truck Driver Career">
+                  <h4><a href="blog/brooklyn-truck-driving-career.html">Truck Driver Career</a></h4>
+                  <time datetime="2022-07-03">Jul 3, 2022</time>
+                </div>
+
+                <div class="post-item clearfix">
+                  <img src="assets/img/blog/brooklyn-commercial-driving-lessons.jpg" alt="Commercial Driving Lessons - DOs and DONTs">
+                  <h4><a href="blog/brooklyn-commercial-driving-lessons.html">Commercial Driving Lessons - DOs and DONTs</a></h4>
+                  <time datetime="2023-05-30">May 30, 2023</time>
+                </div>
+
+                <div class="post-item clearfix">
+                  <img src="assets/img/blog/brooklyn-cdl-road-test-roadmap.jpg" alt="CDL Road Test Roadmap">
+                  <h4><a href="blog/brooklyn-cdl-road-test-roadmap.html">CDL Road Test Roadmap</a></h4>
+                  <time datetime="2023-05-30">May 30, 2023</time>
+                </div>
+
+              </div><!-- End sidebar recent posts-->
+
+              <!--
+              <h3 class="sidebar-title">Tags</h3>
+              <div class="sidebar-item tags">
+                <ul>
+                  <li><a href="#">App</a></li>
+                  <li><a href="#">IT</a></li>
+                  <li><a href="#">Business</a></li>
+                  <li><a href="#">Mac</a></li>
+                  <li><a href="#">Design</a></li>
+                  <li><a href="#">Office</a></li>
+                  <li><a href="#">Creative</a></li>
+                  <li><a href="#">Studio</a></li>
+                  <li><a href="#">Smart</a></li>
+                  <li><a href="#">Tips</a></li>
+                  <li><a href="#">Marketing</a></li>
+                </ul>
+              </div>
+              --><!-- End sidebar tags-->
+
+            </div><!-- End sidebar -->
+
+          </div><!-- End blog sidebar -->
+
+        </div>
+
+      </div>
+    </section><!-- End Blog Single Section -->
+
+  </main><!-- End #main -->
+
+  <!-- ======= Footer ======= -->
+  <footer id="footer">
+
+    <div class="footer-top">
+      <div class="container">
+        <div class="row">
+
+          <div class="col-lg-3 col-md-6 footer-links">
+            <h4>Useful Links</h4>
+            <ul>
+              <li><i class="bx bx-chevron-right"></i> <a href="index.html">Home</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="about.html">About Us</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="CDL-process.html">CDL Process</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="pricing.html">Pricing</a></li>              
+            </ul>
+          </div>
+
+          <div class="col-lg-3 col-md-6 footer-links">
+            <h4>Our Services</h4>
+            <ul>
+              <li><i class="bx bx-chevron-right"></i> <a href="services/brooklyn-cdl-driving-lessons.html">Driving Lessons</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="services/brooklyn-eldt-lessons.html">Online Training</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="services/booking-cdl-road-test.html">Road Test</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="services/brooklyn-non-cdl-driving-lessons.html">Non Commercial Driving Lessons</a></li>              
+            </ul>
+          </div>
+
+          <div class="col-lg-3 col-md-6 footer-contact" style="font-size: 0.77rem;">
+            <h4>Contact Us</h4>            
+            <p style="margin-top: 5px;">
+              <div><strong>Red Hook Commercial Driving School, Inc.</strong><br></div>              
+              <div style="margin-top: 15px;">
+                <strong>Address:</strong> 201 Ditmas Ave Brooklyn NY 11218<br>
+                <strong>Phones:</strong> (646) 250-5429 | (718) 743-9464<br>              
+                <strong>Email:</strong> info@redhookcdl.com<br>
+              </div>
+              <div style="margin-top: 15px;">
+                <strong>Working Hours:</strong> Mon-Sun 7AM-8PM<br>
+              </div>
+            </p>
+          </div>
+          
+          <div class="col-lg-3 col-md-6 footer-info">          
+            <h4>About US</h4>
+            <p style="font-size: 0.87rem;">              
+              30+ years in business and helped tens of thousands to become CDL drivers!
+              We are one of the oldest and most experienced commercial driving schools in Brooklyn.
+              Get in touch and join us!
+            </p>
+            <div class="social-links mt-3">              
+              <a href="https://www.facebook.com/people/Red-Hook-Commercial-Driving-School-INC/100067190119635/" class="facebook" target="_blank"><i class="bi bi-facebook"></i></a>
+              <a href="index.html" class="instagram"><i class="bi bi-instagram"></i></a>
+              <a href="index.html" class="linkedin"><i class="bi bi-linkedin"></i></a>
+              <a href="https://youtu.be/njDUQ5oBYBI" class="youtube" target="_blank"><i class="bi bi-youtube"></i></a>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>    
+
+    <div class="container">
+      <div class="copyright">
+        &copy; Copyright <strong><span>Red Hook Commercial Driving School, Inc.</span></strong> All Rights Reserved
+      </div>
+      <div class="credits">
+        <!-- All the links in the footer should remain intact. -->
+        <!-- You can delete the links only if you purchased the pro version. -->
+        <!-- Licensing information: https://bootstrapmade.com/license/ -->
+        <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/eterna-free-multipurpose-bootstrap-template/ -->
+        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+      </div>
+    </div>
+  </footer><!-- End Footer -->
+
+<a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+<!-- Vendor JS Files -->
+<script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
+<script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+<script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+<script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+<script src="assets/vendor/waypoints/noframework.waypoints.js"></script>
+<script src="assets/vendor/php-email-form/validate.js"></script>
+
+<!-- Template Main JS File -->
+<script src="assets/js/main.js"></script>
+
+</body>
+
+</html>

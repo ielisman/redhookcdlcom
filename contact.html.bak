@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>Red Hook Commercial Driving School - Contact us</title>
+  <meta content="Contact us for CDL driving lessons, Road Test - Red Hook Brooklyn" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/animate.css/animate.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
+
+  <!-- =======================================================
+  * Template Name: Eterna - v4.8.1
+  * Template URL: https://bootstrapmade.com/eterna-free-multipurpose-bootstrap-template/
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
+</head>
+
+<body>
+
+  <!-- ======= Top Bar ======= -->
+  <section id="topbar" class="d-flex align-items-left">
+    <div class="container d-flex justify-content-md-between align-items-left">
+      <div class="contact-info d-flex justify-content-left align-items-left">
+        <table style="padding: 3px; margin: 0;">
+          <tr>
+            <td colspan="2">
+              <div style="color: white; font-size: 1.15rem;">                
+                &nbsp;Red Hook Commercial Driving School, Inc.
+              </div>              
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <i class="bi bi-house-door d-flex align-items-center" style="font-size: 1.25rem;">
+                <span style="font-size: 12px; white-space: nowrap;">201 Ditmas Ave, Brooklyn NY 11218</span>
+              </i>
+            </td>
+            <td>
+              <i class="bi bi-telephone d-flex align-items-center ms-2"
+                style="font-size: 1.25rem; white-space: nowrap;">
+                <span style="font-size: 12px;">+1 (646) 250-5429</span>
+              </i>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <i class="bi bi-envelope d-flex align-items-center" style="font-size: 1.25rem;">                
+                <a style="font-size: 12px; white-space: nowrap;"
+                  href="mailto:info@redhookcdl.com">info@redhookcdl.com</a>
+              </i>
+            </td>
+            <td>
+              <i class="bi bi-headset d-flex align-items-center ms-2" style="font-size: 1.25rem;">
+                <span style="font-size: 12px; white-space: nowrap;">+1 (718) 743-9464</span>
+              </i>
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div class="social-links d-none d-md-flex align-items-center"  style="font-size: 1.15rem;">        
+        <a href="https://www.facebook.com/people/Red-Hook-Commercial-Driving-School-INC/100067190119635/" class="facebook" target="_blank"><i class="bi bi-facebook"></i></a>
+        <a href="index.html" class="instagram"><i class="bi bi-instagram"></i></a>
+        <a href="index.html" class="linkedin"><i class="bi bi-linkedin"></i></a>
+        <a href="https://youtu.be/njDUQ5oBYBI" class="youtube" target="_blank"><i class="bi bi-youtube"></i></a>
+      </div>
+    </div>
+  </section>
+
+<!-- ======= Header ======= -->
+<header id="header" class="d-flex align-items-left">
+  <div class="container d-flex justify-content-between align-items-left">
+
+    <div class="logo">
+      <!-- <a href="index.html">Eterna</a> -->
+      <!-- Uncomment below if you prefer to use an image logo -->
+      <h1>
+          <a href="index.html">
+            <img src="assets/img/TruckLogo3.png" alt="" class="img-fluid">
+          </a>
+      </h1>        
+    </div>
+
+    <nav id="navbar" class="navbar">
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="CDL-process.html">CDL Process</a></li>
+        <li class="dropdown"><a href="brooklyn-cdl-services.html"><span>Services</span><i class="bi bi-chevron-down"></i></a>
+          <ul>
+            <li class="dropdown"><a href="services/brooklyn-cdl-driving-lessons.html"><span>Driving Lessons</span> <i class="bi bi-chevron-right"></i></a>
+              <ul>
+                <li><a href="services/driving-lessons/brooklyn-manual-transmission-cdl-driving-lessons.html">Manual</a></li>
+                <li><a href="services/driving-lessons/brooklyn-automatic-transmission-cdl-driving-lessons.html">Automatic</a></li>
+              </ul>
+            </li>
+            <li><a href="services/brooklyn-eldt-lessons.html">ELDT - Online Classes</a></li>
+            <li><a href="services/booking-cdl-road-test.html">Booking Road Test</a></li>
+            <li><a href="services/brooklyn-packages.html">Packages</a></li>
+            <li><a href="services/brooklyn-non-cdl-driving-lessons.html">Non-CDL Driving Lessons</a></li>
+          </ul>
+        </li>
+        <li><a href="pricing.html">Pricing</a></li>
+        <li><a href="blog.html">Blog</a></li>
+        <li><a class="active" href="contact.html">Contact</a></li>
+      </ul>
+      <i class="bi bi-list mobile-nav-toggle"></i>
+    </nav><!-- .navbar -->
+
+  </div>
+</header><!-- End Header -->
+
+  <main id="main">
+
+    <!-- ======= Breadcrumbs ======= -->
+    <section id="breadcrumbs" class="breadcrumbs">
+      <div class="container">
+
+        <ol>
+          <li><a href="index.html">Home</a></li>
+          <li>Contact</li>
+        </ol>
+        <h2>Contact</h2>
+
+      </div>
+    </section><!-- End Breadcrumbs -->
+
+    <!-- ======= Contact Section ======= -->
+    <section id="contact" class="contact">
+      <div class="container">
+
+        <div class="contacth1">
+          <h1>Red Hook Commercial Driving School, Inc.</h1>
+        </div>
+
+        <div class="row">
+          <div class="col-lg-6">
+            <div class="info-box mb-4">
+              <i class="bx bx-map"></i>
+              <h3>Addresses</h3>
+              <p>Office: 201 Ditmas Ave, Brooklyn, NY 11218</p>
+              <p>Driving Lessons: 100 Bowne St Bay 69, Brooklyn, NY 11231</p> <!-- 74 Bowne St, Brooklyn, NY 11231 -->
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6">
+            <div class="info-box  mb-4">
+              <i class="bx bx-phone-call"></i>
+              <h3>Call Us</h3>
+              <p>(646) 250-5429 | (718) 743-9464</p>
+              <br>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6">
+            <div class="info-box  mb-4">
+              <i class="bx bx-envelope"></i>
+              <h3>Email Us</h3>
+              <p> <a href="mailto:info@redhookcdl.com">info@redhookcdl.com</a></p>
+              <br>
+            </div>
+          </div>          
+
+        </div>
+
+        <div class="row">
+
+          <div style="width: 100%; display: flex; justify-content: center;">
+            <iframe
+              class="mb-4 mb-lg-0" width="515" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3027.7280893778643!2d-73.97895008449528!3d40.635878150205585!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25b2ca9490209%3A0x447288a806dd7ee4!2sRed%20Hook%20Commercial%20Driving!5e0!3m2!1sen!2sus!4v1664858092168!5m2!1sen!2sus">
+            </iframe>            
+
+            <iframe 
+              class="mb-4 mb-lg-0" width="515" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d189.10324166527562!2d-74.0101259170577!3d40.68163899461172!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25a6107a7595f%3A0x9df5733f6a3b9c3e!2s75%20Bowne%20St%20%2369%2C%20Brooklyn%2C%20NY%2011231!5e0!3m2!1sen!2sus!4v1665118726096!5m2!1sen!2sus"
+            >
+            </iframe>
+
+          </div>
+
+          <!--
+          <div class="col-lg-6">
+
+
+            <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+              <div class="row">
+                <div class="col-md-6 form-group">
+                  <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
+                </div>
+                <div class="col-md-6 form-group mt-2 mt-md-0">
+                  <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required>
+                </div>
+              </div>
+              <div class="form-group mt-2">
+                <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required>
+              </div>
+              <div class="form-group mt-2">
+                <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
+              </div>
+              <div class="my-3">
+                <div class="loading">Loading</div>
+                <div class="error-message"></div>
+                <div class="sent-message">Your message has been sent. Thank you!</div>
+              </div>
+              <div class="text-center"><button type="submit">Send Message</button></div>
+            </form>
+          </div>
+          -->
+
+        </div>
+
+      </div>
+    </section><!-- End Contact Section -->
+
+  </main><!-- End #main -->
+
+  <!-- ======= Footer ======= -->
+  <footer id="footer">
+
+    <div class="footer-top">
+      <div class="container">
+        <div class="row">
+
+          <div class="col-lg-3 col-md-6 footer-links">
+            <h4>Useful Links</h4>
+            <ul>
+              <li><i class="bx bx-chevron-right"></i> <a href="index.html">Home</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="about.html">About Us</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="CDL-process.html">CDL Process</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="pricing.html">Pricing</a></li>              
+            </ul>
+          </div>
+
+          <div class="col-lg-3 col-md-6 footer-links">
+            <h4>Our Services</h4>
+            <ul>
+              <li><i class="bx bx-chevron-right"></i> <a href="services/brooklyn-cdl-driving-lessons.html">Driving Lessons</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="services/brooklyn-eldt-lessons.html">Online Training</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="services/booking-cdl-road-test.html">Road Test</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="services/brooklyn-non-cdl-driving-lessons.html">Non Commercial Driving Lessons</a></li>              
+            </ul>
+          </div>
+
+          <div class="col-lg-3 col-md-6 footer-contact" style="font-size: 0.77rem;">
+            <h4>Contact Us</h4>            
+            <p style="margin-top: 5px;">
+              <div><strong>Red Hook Commercial Driving School, Inc.</strong><br></div>              
+              <div style="margin-top: 15px;">
+                <strong>Address:</strong> 201 Ditmas Ave Brooklyn NY 11218<br>
+                <strong>Phones:</strong> (646) 250-5429 | (718) 743-9464<br>              
+                <strong>Email:</strong> info@redhookcdl.com<br>
+              </div>
+              <div style="margin-top: 15px;">
+                <strong>Working Hours:</strong> Mon-Sun 7AM-8PM<br>
+              </div>
+            </p>
+          </div>
+          
+          <div class="col-lg-3 col-md-6 footer-info">          
+            <h4>About US</h4>
+            <p style="font-size: 0.87rem;">              
+              30+ years in business and helped tens of thousands to become CDL drivers!
+              We are one of the oldest and most experienced commercial driving schools in Brooklyn.
+              Get in touch and join us!
+            </p>
+            <div class="social-links mt-3">              
+              <a href="https://www.facebook.com/people/Red-Hook-Commercial-Driving-School-INC/100067190119635/" class="facebook" target="_blank"><i class="bi bi-facebook"></i></a>
+              <a href="index.html" class="instagram"><i class="bi bi-instagram"></i></a>
+              <a href="index.html" class="linkedin"><i class="bi bi-linkedin"></i></a>
+              <a href="https://youtu.be/njDUQ5oBYBI" class="youtube" target="_blank"><i class="bi bi-youtube"></i></a>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>    
+
+    <div class="container">
+      <div class="copyright">
+        &copy; Copyright <strong><span>Red Hook Commercial Driving School, Inc.</span></strong> All Rights Reserved
+      </div>
+      <div class="credits">
+        <!-- All the links in the footer should remain intact. -->
+        <!-- You can delete the links only if you purchased the pro version. -->
+        <!-- Licensing information: https://bootstrapmade.com/license/ -->
+        <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/eterna-free-multipurpose-bootstrap-template/ -->
+        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+      </div>
+    </div>
+  </footer><!-- End Footer -->
+
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/waypoints/noframework.waypoints.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>

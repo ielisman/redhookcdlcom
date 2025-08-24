@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <style>
+        .company-info {
+            font-family: Verdana, Helvetica, sans-serif; font-size: 1.07rem; font-weight: 700; text-align: center;
+        }
+        .company-address {
+            font-family: Verdana, Helvetica, sans-serif; font-size: 0.95rem; font-weight: 500; text-align: center;
+        }
+
+        .customer-info {            
+            border: 1px solid black; border-collapse: collapse; width: 100%; border-spacing: 0px;
+            font-family: Verdana, Helvetica, sans-serif;
+        }
+        .customer-info td   { font-size: 10px; padding: 5px; }
+        .customer-info .tal { text-align: left; } 
+        .customer-info .nam { text-align: justify; font-size: 13px; }
+        .customer-info .brt { border-top: 1px solid black; } 
+        .customer-info .brd { border: 1px solid black; }
+
+        .record    { border: 1px solid black; border-collapse: collapse; width: 100%; border-spacing: 0px; text-align: center;}
+        .record td { border: 1px solid black; font-size: 10px; padding: 5px; }
+
+    </style>
+
+    <title>Student Record Card</title>
+</head>
+<body>
+    
+    <table width="100%" align="center">
+
+        <tr> <!-- Company Table -->
+            <td>
+                <table width="100%">
+                    <tr>
+                        <td colspan="7" class="company-info">RED HOOK COMMERCIAL DRIVING SCHOOL, INC.</td>
+                    </tr>
+                    <tr>
+                        <td colspan="1">&nbsp;</td>
+                        <td class="company-address">201 DITMAS AVENUE<br>BROOKLYN, NY 11218<br>Tel. (646) 250-5429</td>
+                    </tr>
+                    <tr>
+                        <td colspan="7" class="company-info">STUDENT RECORD CARD</td>
+                    </tr>
+                </table>
+            </td>    
+        </tr>
+        
+        <tr> <!-- User Information Table -->
+            <td>
+                <table class="customer-info">
+                    <tr>                        
+                        <td class="tal" style="width: 10%">MR.<br>MRS.<br>MISS<br></td>
+                        <td class="nam" style="width: 25%">&nbsp;</td>
+                        <td>&nbsp;</td>                                                  
+                    </tr>
+                    <tr>
+                        <td class="brt" style="width: 30%"><br>ADDRESS:</td>
+                        <td class="brt" style="width: 37%">&nbsp;</td>
+                        <td class="brd" style="width: 33%"><br>HOME PHONE:</td>
+                    </tr>
+                    <tr>
+                        <td class="brt" style="width: 30%"><br>PERMIT #:</td>
+                        <td class="brd" style="width: 37%"><br>HOME CITY:</td>
+                        <td class="brd" style="width: 33%"><br>CONTRACT #:</td>
+                    </tr>
+                </table>
+            </td>
+        </tr>                
+        <tr> <!-- Record Card Table-->
+            <td>
+                <table class="record">
+                    <tr>
+                        <td style="width: 14%;">LESSON #:</td>
+                        <td style="width: 16%;">SERVICES</td>
+                        <td style="width: 12%;">DATE</td>
+                        <td style="width: 14%;">TIME</td>
+                        <td style="width: 20%;">RECEIPT #</td>
+                        <td style="width: 34%;">INSTRUCTOR</td>
+                    </tr>
+                    <script>
+                        for (var i=0; i < 21; i++) {
+                            document.write("<tr>");
+                                for (var j=0; j<6; j++) {
+                                    document.write("<td class='brd'>&nbsp;</td>");
+                                }
+                            document.write("</tr>");
+                        }
+                    </script>                    
+                </table>
+            </td>
+        </tr>
+    </table>
+</body>
+
+</html>

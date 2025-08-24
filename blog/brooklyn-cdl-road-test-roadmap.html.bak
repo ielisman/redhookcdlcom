@@ -1,0 +1,466 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>Blog CDL Road Test Roadmap</title>
+  <meta content="Article about CDL Road Test Roadmap in New York" name="description">
+  <meta content="" name="keywords">
+
+  <base href="../"/>
+
+  <!-- Favicons -->
+  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/animate.css/animate.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
+
+  <!-- =======================================================
+  * Template Name: Eterna - v4.8.1
+  * Template URL: https://bootstrapmade.com/eterna-free-multipurpose-bootstrap-template/
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
+</head>
+
+<body>
+
+  <!-- ======= Top Bar ======= -->
+  <section id="topbar" class="d-flex align-items-left">
+    <div class="container d-flex justify-content-md-between align-items-left">
+      <div class="contact-info d-flex justify-content-left align-items-left">
+        <table style="padding: 3px; margin: 0;">
+          <tr>
+            <td colspan="2">
+              <div style="color: white; font-size: 1.15rem;">                
+                &nbsp;Red Hook Commercial Driving School, Inc.
+              </div>              
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <i class="bi bi-house-door d-flex align-items-center" style="font-size: 1.25rem;">
+                <span style="font-size: 12px; white-space: nowrap;">201 Ditmas Ave, Brooklyn NY 11218</span>
+              </i>
+            </td>
+            <td>
+              <i class="bi bi-telephone d-flex align-items-center ms-2"
+                style="font-size: 1.25rem; white-space: nowrap;">
+                <span style="font-size: 12px;">+1 (646) 250-5429</span>
+              </i>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <i class="bi bi-envelope d-flex align-items-center" style="font-size: 1.25rem;">                
+                <a style="font-size: 12px; white-space: nowrap;"
+                  href="mailto:info@redhookcdl.com">info@redhookcdl.com</a>
+              </i>
+            </td>
+            <td>
+              <i class="bi bi-headset d-flex align-items-center ms-2" style="font-size: 1.25rem;">
+                <span style="font-size: 12px; white-space: nowrap;">+1 (718) 743-9464</span>
+              </i>
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div class="social-links d-none d-md-flex align-items-center"  style="font-size: 1.15rem;">        
+        <a href="https://www.facebook.com/people/Red-Hook-Commercial-Driving-School-INC/100067190119635/" class="facebook" target="_blank"><i class="bi bi-facebook"></i></a>
+        <a href="index.html" class="instagram"><i class="bi bi-instagram"></i></a>
+        <a href="index.html" class="linkedin"><i class="bi bi-linkedin"></i></a>
+        <a href="https://youtu.be/njDUQ5oBYBI" class="youtube" target="_blank"><i class="bi bi-youtube"></i></a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ======= Header ======= -->
+  <header id="header" class="d-flex align-items-left">
+    <div class="container d-flex justify-content-between align-items-left">
+
+      <div class="logo">
+        <!-- <a href="index.html">Eterna</a> -->
+        <!-- Uncomment below if you prefer to use an image logo -->
+        <h3>          
+          <a href="index.html">
+            <img src="assets/img/TruckLogo3.png" alt="" class="img-fluid">
+          </a>
+        </h3>
+      </div>
+
+      <nav id="navbar" class="navbar">
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="about.html">About</a></li>
+          <li><a href="CDL-process.html">CDL Process</a></li>
+          <li class="dropdown"><a href="brooklyn-cdl-services.html"><span>Services</span><i class="bi bi-chevron-down"></i></a>
+            <ul>
+              <li class="dropdown"><a href="services/brooklyn-cdl-driving-lessons.html"><span>Driving Lessons</span> <i class="bi bi-chevron-right"></i></a>
+                <ul>
+                  <li><a href="services/driving-lessons/brooklyn-manual-transmission-cdl-driving-lessons.html">Manual</a></li>
+                  <li><a href="services/driving-lessons/brooklyn-automatic-transmission-cdl-driving-lessons.html">Automatic</a></li>
+                </ul>
+              </li>
+              <li><a href="services/brooklyn-eldt-lessons.html">ELDT - Online Classes</a></li>
+              <li><a href="services/booking-cdl-road-test.html">Booking Road Test</a></li>
+              <li><a href="services/brooklyn-packages.html">Packages</a></li>
+              <li><a href="services/brooklyn-non-cdl-driving-lessons.html">Non-CDL Driving Lessons</a></li>
+            </ul>
+          </li>
+          <li><a href="pricing.html">Pricing</a></li>
+          <li><a class="active" href="blog.html">Blog</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+        <i class="bi bi-list mobile-nav-toggle"></i>
+      </nav><!-- .navbar -->
+
+    </div>
+  </header><!-- End Header -->
+  <main id="main">
+
+    <!-- ======= Breadcrumbs ======= -->
+    <section id="breadcrumbs" class="breadcrumbs">
+      <div class="container">
+
+        <ol>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="blog.html">Blog</a></li>
+        </ol>
+        <h2>CDL Road Test Roadmap</h2>
+
+      </div>
+    </section><!-- End Breadcrumbs -->
+
+    <!-- ======= Blog Single Section ======= -->
+    <section id="blog" class="blog">
+      <div class="container" data-aos="fade-up">
+
+        <div class="row">
+
+          <div class="col-lg-8 entries">
+
+            <article class="entry entry-single">
+
+              <div class="entry-img">
+                <img src="assets/img/blog/brooklyn-cdl-road-test-roadmap.jpg" alt="" class="img-fluid">
+              </div>
+
+              <h1 class="entry-title">
+                <a href="brooklyn-cdl-road-test-roadmap.html">CDL Road Test Roadmap</a>
+              </h1>
+
+              <div class="entry-meta">
+                <ul>
+                  <li class="d-flex align-items-center"><i class="bi bi-person"></i> <a href="brooklyn-cdl-road-test-roadmap.html">Yefim</a></li>
+                  <li class="d-flex align-items-center"><i class="bi bi-clock"></i> <a href="brooklyn-cdl-road-test-roadmap.html"><time datetime="2023-05-30">May 30, 2023</time></a></li>                  
+                </ul>
+              </div>
+
+              <div class="entry-content">
+                <p>
+                  We already invested in our <a href="CDL-process.html">CDL Process</a> page an explanation about CDL Process or Road Map on how to get to CDL Road Test.
+                  We will take an initiative to explain it here in a freestyle format.
+                </p>
+
+                <p style="color: #e96b56;">
+                  Here is the journey from A to Z below, please enjoy the ride!
+                </p>
+
+                <h3>Commercial Learner's Permit</h3>
+                <p>
+                  First, you will need to pass a written test. If you do pass it, you will get a <strong>Commercial Learner Permit</strong> or CLP.
+                  Let's say you want to have an extra specialty, for example driving Hazardous Materials (HazMat) or driving Tank Vehicles or Doubles/Triples.
+                  For that, you will need to study and take separate tests. You can take those tests at the same time as you take the CLP test. A $10 DMV fee covers it. 
+                  If you want to take those tests later, it will be 5 bucks per test. There are certain rules for Hazmat where you need to take your fingerprints; 
+                  for School Bus you will need to take the extra road tests.
+                  Please read the <a href="https://dmv.ny.gov/node/2067">Commercial Driver's Manual</a> for more details. It should be chapters 7-10 for the time being.
+                  The written test has three parts: general knowledge, air brakes, and combination. Study well, especially general knowledge!<br>
+                  You must have NY State regular driver's license or a valid CDL license from another state to take this test.
+                </p>
+
+                <h3>ELDT</h3>
+                <p>
+                  Take ELDT Online and Driving Classes. That's a federal rule. Can't take Road Test without it. 
+                  If you have a valid and extended Permit received before Feb 7, 2022 - you don't need to take ELDT but that's a rarity now.
+                  Our school will need you to register with FMCSA USDOT TPR for your ELDT training. You can take it in our school or elsewhere but advantage in our school, we have all records in one place. We have cases when people took online classes elsewhere without being submitted to FMCSA USDOT TPR. At the road test site, they were denied the road test due to above.               
+                </p>
+                <img src="assets/img/cdl-process/Red-Hook-Commercial-Driving-School-Lessons-ELDT.jpg" class="img-fluid" alt="">
+
+                <h3>Driving Lessons</h3>
+                <p>
+                  <strong>Take at least 10 driving lessons</strong>. Take less than that and you have a very high chance to fail the Road Test.
+                  Most people are trying to save and end up paying more.
+                  Why? Each time you fail, you will need to book a truck for the road test again and it is not cheap.
+                  When people fail, they realize they didn't invest enough into the lessons and the learning process.
+                  So they keep taking those classes again! Don't make mistakes of many. It is true for any CDL School! <br>                  
+                  You will need to get a very good grip on <strong>Pre-Trip Inspection</strong>. 
+                  You will need to get comfortable with <strong>Basic Control Skills</strong>.
+                  It includes Straight Line Backing, Offset Back (Left/Right ), and driver-side or conventional Parallel parking. <br>
+                  
+                  <strong>On-Road Driving</strong> will be judged by your Overall Performance and General Driving Behavior.
+                  Most of the students are nervous during the Road Test, thus it is a must to get a good grip on all the skills. 
+                  While taking lessons, we will suggest you a <strong>date for the Road Test</strong>. 
+                  DMV charges $40 to schedule the road test, so you need to pay that fee. 
+                  In case when you will need to reschedule the road test, depending on the circumstances we may find an early slot for you.
+                  Otherwise, we will try to arrange it for another date. 
+                  Often, you will need to call DMV because the online system does not have the same ability as the phone operator. 
+                  Please reschedule at least 3 days before the Road Test, otherwise, you might need to pay $40 again. 
+                  And let us know ASAP since we will need to re-arrange our trucks as well.
+                </p>
+
+                <h3>Medical Certification</h3>
+                <p>
+                  If you are planning to drive interstate, i.e. Non-Excepted Interstate (NI) which is the case for most, you will need to clear K Restriction. 
+                  For that, you will need to pass USDOT Medical Examination and receive USDOT Medical Examiner's Certificate.
+                  Get any doc from <a href="https://nationalregistry.fmcsa.dot.gov/home">the National Registry</a>
+                  We have the doc that we sent our students to; he is a pretty good one and charges a decent price:
+                  Dr. Leonid Toprover @ <a href="https://goo.gl/maps/b8UtEcYKwH6Q1NEX8">207 Ocean Pkwy, Brooklyn, NY 11218</a>. Call him @ 1-718-633-3823. He will instruct you how to submit examination results to Albany.
+                </p>
+
+                <h3>The Road Test</h3>
+                <p>
+                  Finally, when you are ready for the Road Test, ensure you get a good sleep the night before. Arrive early and 
+                  <strong>make sure a valid NY Driver License and a Commercial Learner's Permit are with you.</strong>
+                  The first part of the test is Pre-trip Inspection. 
+                  If you pass it, you will go to the Basic Controls Skills Test and the On-Road Driving.
+                  If you don't pass, the examiner won't send you further, so you will know right away. 
+                  In this case, you will need to book a new date for the Road Test and pay a $40 DMV fee.
+                  If you don't pass Basic Controls Skills and On-Road Driving, you pay a $40 DMV fee.
+                  You will need to schedule another Road Test date and only pass the part you didn't pass.
+                  Sometimes things break during the test. If it happens or if any force majeure happens, 
+                  the examiner will reschedule the road test without a fee.
+                </p>
+
+                <h3>And at last</h3>
+                <p>Once you pass an exam, please call us.
+                  We are always happy to hear good news and we care about our students.
+                  Each time you teach someone, as a teacher you do connect with the student on a personal level.
+                  We also do value reviews about our company, so we might send you a link to write it down.
+                  <a href="https://g.page/r/CeR-3QaoiHJEEAg/review" target="_blank">Or click it right here.</a> <br>
+                  That's all folks. Contact us if you have any specific questions!</p>
+              </div>
+
+              <!--
+              <div class="entry-footer">
+                <i class="bi bi-folder"></i>
+                <ul class="cats">
+                  <li><a href="#">Business</a></li>
+                </ul>
+
+                <i class="bi bi-tags"></i>
+                <ul class="tags">
+                  <li><a href="#">Creative</a></li>
+                  <li><a href="#">Tips</a></li>
+                  <li><a href="#">Marketing</a></li>
+                </ul>
+              </div>
+              -->
+
+            </article><!-- End blog entry -->
+
+            <!--
+            <div class="blog-author d-flex align-items-center">
+              <img src="assets/img/blog/blog-author.jpg" class="rounded-circle float-left" alt="">
+              <div>
+                <h4>Jane Smith</h4>
+                <div class="social-links">
+                  <a href="https://twitters.com/#"><i class="bi bi-twitter"></i></a>
+                  <a href="https://facebook.com/#"><i class="bi bi-facebook"></i></a>
+                  <a href="https://instagram.com/#"><i class="biu bi-instagram"></i></a>
+                </div>
+                <p>
+                  Itaque quidem optio quia voluptatibus dolorem dolor. Modi eum sed possimus accusantium. Quas repellat voluptatem officia numquam sint aspernatur voluptas. Esse et accusantium ut unde voluptas.
+                </p>
+              </div>
+            </div>
+            --><!-- End blog author bio -->
+
+
+          </div><!-- End blog entries list -->
+
+          <div class="col-lg-4">
+
+            <div class="sidebar">
+
+              <!--
+              <h3 class="sidebar-title">Search</h3>
+              <div class="sidebar-item search-form">
+                <form action="">
+                  <input type="text">
+                  <button type="submit"><i class="bi bi-search"></i></button>
+                </form>
+              </div>
+              --><!-- End sidebar search formn-->
+
+              <!--
+              <h3 class="sidebar-title">Categories</h3>
+              <div class="sidebar-item categories">
+                <ul>
+                  <li><a href="#">General <span>(25)</span></a></li>
+                  <li><a href="#">Lifestyle <span>(12)</span></a></li>
+                  <li><a href="#">Travel <span>(5)</span></a></li>
+                  <li><a href="#">Design <span>(22)</span></a></li>
+                  <li><a href="#">Creative <span>(8)</span></a></li>
+                  <li><a href="#">Educaion <span>(14)</span></a></li>
+                </ul>
+              </div>
+              --><!-- End sidebar categories-->
+
+              <h3 class="sidebar-title">Recent Posts</h3>
+              <div class="sidebar-item recent-posts">
+                <div class="post-item clearfix">
+                  <img src="assets/img/blog/brooklyn-truck-driving-career.jpg" alt="Truck Driver Career">
+                  <h4><a href="blog/brooklyn-truck-driving-career.html">Truck Driver Career</a></h4>
+                  <time datetime="2022-07-03">Jul 3, 2022</time>
+                </div>
+
+                <div class="post-item clearfix">
+                  <img src="assets/img/blog/brooklyn-commercial-driving-lessons.jpg" alt="Commercial Driving Lessons - DOs and DONTs">
+                  <h4><a href="blog/brooklyn-commercial-driving-lessons.html">Commercial Driving Lessons - DOs and DONTs</a></h4>
+                  <time datetime="2023-05-30">May 30, 2023</time>
+                </div>
+
+                <div class="post-item clearfix">
+                  <img src="assets/img/blog/brooklyn-cdl-road-test-roadmap.jpg" alt="CDL Road Test Roadmap">
+                  <h4><a href="blog/brooklyn-cdl-road-test-roadmap.html">CDL Road Test Roadmap</a></h4>
+                  <time datetime="2023-05-30">May 30, 2023</time>
+                </div>
+
+              </div><!-- End sidebar recent posts-->
+
+              <!--
+              <h3 class="sidebar-title">Tags</h3>
+              <div class="sidebar-item tags">
+                <ul>
+                  <li><a href="#">App</a></li>
+                  <li><a href="#">IT</a></li>
+                  <li><a href="#">Business</a></li>
+                  <li><a href="#">Mac</a></li>
+                  <li><a href="#">Design</a></li>
+                  <li><a href="#">Office</a></li>
+                  <li><a href="#">Creative</a></li>
+                  <li><a href="#">Studio</a></li>
+                  <li><a href="#">Smart</a></li>
+                  <li><a href="#">Tips</a></li>
+                  <li><a href="#">Marketing</a></li>
+                </ul>
+              </div>
+              --><!-- End sidebar tags-->
+
+            </div><!-- End sidebar -->
+
+          </div><!-- End blog sidebar -->
+
+        </div>
+
+      </div>
+    </section><!-- End Blog Single Section -->
+
+  </main><!-- End #main -->
+
+  <!-- ======= Footer ======= -->
+  <footer id="footer">
+
+    <div class="footer-top">
+      <div class="container">
+        <div class="row">
+
+          <div class="col-lg-3 col-md-6 footer-links">
+            <h4>Useful Links</h4>
+            <ul>
+              <li><i class="bx bx-chevron-right"></i> <a href="index.html">Home</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="about.html">About Us</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="CDL-process.html">CDL Process</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="pricing.html">Pricing</a></li>              
+            </ul>
+          </div>
+
+          <div class="col-lg-3 col-md-6 footer-links">
+            <h4>Our Services</h4>
+            <ul>
+              <li><i class="bx bx-chevron-right"></i> <a href="services/brooklyn-cdl-driving-lessons.html">Driving Lessons</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="services/brooklyn-eldt-lessons.html">Online Training</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="services/booking-cdl-road-test.html">Road Test</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="services/brooklyn-non-cdl-driving-lessons.html">Non Commercial Driving Lessons</a></li>              
+            </ul>
+          </div>
+
+          <div class="col-lg-3 col-md-6 footer-contact" style="font-size: 0.77rem;">
+            <h4>Contact Us</h4>            
+            <p style="margin-top: 5px;">
+              <div><strong>Red Hook Commercial Driving School, Inc.</strong><br></div>              
+              <div style="margin-top: 15px;">
+                <strong>Address:</strong> 201 Ditmas Ave Brooklyn NY 11218<br>
+                <strong>Phones:</strong> (646) 250-5429 | (718) 743-9464<br>              
+                <strong>Email:</strong> info@redhookcdl.com<br>
+              </div>
+              <div style="margin-top: 15px;">
+                <strong>Working Hours:</strong> Mon-Sun 7AM-8PM<br>
+              </div>
+            </p>
+          </div>
+          
+          <div class="col-lg-3 col-md-6 footer-info">          
+            <h4>About US</h4>
+            <p style="font-size: 0.87rem;">              
+              30+ years in business and helped tens of thousands to become CDL drivers!
+              We are one of the oldest and most experienced commercial driving schools in Brooklyn.
+              Get in touch and join us!
+            </p>
+            <div class="social-links mt-3">              
+              <a href="https://www.facebook.com/people/Red-Hook-Commercial-Driving-School-INC/100067190119635/" class="facebook" target="_blank"><i class="bi bi-facebook"></i></a>
+              <a href="index.html" class="instagram"><i class="bi bi-instagram"></i></a>
+              <a href="index.html" class="linkedin"><i class="bi bi-linkedin"></i></a>
+              <a href="https://youtu.be/njDUQ5oBYBI" class="youtube" target="_blank"><i class="bi bi-youtube"></i></a>      
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>    
+
+    <div class="container">
+      <div class="copyright">
+        &copy; Copyright <strong><span>Red Hook Commercial Driving School, Inc.</span></strong> All Rights Reserved
+      </div>
+      <div class="credits">
+        <!-- All the links in the footer should remain intact. -->
+        <!-- You can delete the links only if you purchased the pro version. -->
+        <!-- Licensing information: https://bootstrapmade.com/license/ -->
+        <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/eterna-free-multipurpose-bootstrap-template/ -->
+        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+      </div>
+    </div>
+  </footer><!-- End Footer -->
+
+<a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+<!-- Vendor JS Files -->
+<script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
+<script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+<script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+<script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+<script src="assets/vendor/waypoints/noframework.waypoints.js"></script>
+<script src="assets/vendor/php-email-form/validate.js"></script>
+
+<!-- Template Main JS File -->
+<script src="assets/js/main.js"></script>
+
+</body>
+
+</html>

@@ -1,0 +1,474 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>Red Hook Commercial Driving School - CDL Lessons Brooklyn</title>
+  <meta name="description" content="Top Red Hook Brooklyn Commercial Truck Driving School - CDL Driving Lessons, ELDT, Road Test">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link
+    href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
+    rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/animate.css/animate.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
+
+  <!-- =======================================================
+  * Template Name: Eterna - v4.8.1
+  * Template URL: https://bootstrapmade.com/eterna-free-multipurpose-bootstrap-template/
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
+</head>
+
+<body>
+
+  <!-- ======= Top Bar ======= -->
+  <section id="topbar" class="d-flex align-items-left">
+    <div class="container d-flex justify-content-md-between align-items-left">
+      <div class="contact-info d-flex justify-content-left align-items-left">
+        <table style="padding: 3px; margin: 0;">
+          <tr>
+            <td colspan="2">
+              <div style="color: white; font-size: 1.15rem;">                
+                &nbsp;Red Hook Commercial Driving School, Inc.
+              </div>              
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <i class="bi bi-house-door d-flex align-items-center" style="font-size: 1.25rem;">
+                <span style="font-size: 12px; white-space: nowrap;">201 Ditmas Ave, Brooklyn NY 11218</span>
+              </i>
+            </td>
+            <td>
+              <i class="bi bi-telephone d-flex align-items-center ms-2"
+                style="font-size: 1.25rem; white-space: nowrap;">
+                <span style="font-size: 12px;">+1 (646) 250-5429</span>
+              </i>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <i class="bi bi-envelope d-flex align-items-center" style="font-size: 1.25rem;">                
+                <a style="font-size: 12px; white-space: nowrap;"
+                  href="mailto:info@redhookcdl.com">info@redhookcdl.com</a>
+              </i>
+            </td>
+            <td>
+              <i class="bi bi-headset d-flex align-items-center ms-2" style="font-size: 1.25rem;">
+                <span style="font-size: 12px; white-space: nowrap;">+1 (718) 743-9464</span>
+              </i>
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div class="social-links d-none d-md-flex align-items-center"  style="font-size: 1.15rem;">        
+        <a href="https://www.facebook.com/people/Red-Hook-Commercial-Driving-School-INC/100067190119635/" class="facebook" target="_blank"><i class="bi bi-facebook"></i></a>
+        <a href="index.html" class="instagram"><i class="bi bi-instagram"></i></a>
+        <a href="index.html" class="linkedin"><i class="bi bi-linkedin"></i></a>
+        <a href="https://youtu.be/njDUQ5oBYBI" class="youtube" target="_blank"><i class="bi bi-youtube"></i></a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ======= Header ======= -->
+  <header id="header" class="d-flex align-items-left">
+    <div class="container d-flex justify-content-between align-items-left">
+
+      <div class="logo">
+        <!-- <a href="index.html">Eterna</a> -->
+        <!-- Uncomment below if you prefer to use an image logo -->
+        <h3>          
+          <a href="index.html">
+            <img src="assets/img/TruckLogo3.png" alt="" class="img-fluid animate__animated animate__fadeInRightBig">
+          </a>
+        </h3>
+      </div>
+
+      <nav id="navbar" class="navbar">
+        <ul>
+          <li><a class="active" href="index.html">Home</a></li>
+          <li><a href="about.html">About</a></li>
+          <li><a href="CDL-process.html">CDL Process</a></li>
+          <li class="dropdown"><a href="brooklyn-cdl-services.html"><span>Services</span><i class="bi bi-chevron-down"></i></a>
+            <ul>
+              <li class="dropdown"><a href="services/brooklyn-cdl-driving-lessons.html"><span>Driving Lessons</span> <i class="bi bi-chevron-right"></i></a>
+                <ul>
+                  <li><a href="services/driving-lessons/brooklyn-manual-transmission-cdl-driving-lessons.html">Manual</a></li>
+                  <li><a href="services/driving-lessons/brooklyn-automatic-transmission-cdl-driving-lessons.html">Automatic</a></li>
+                </ul>
+              </li>
+              <li><a href="services/brooklyn-eldt-lessons.html">ELDT - Online Classes</a></li>
+              <li><a href="services/booking-cdl-road-test.html">Booking Road Test</a></li>
+              <li><a href="services/brooklyn-packages.html">Packages</a></li>
+              <li><a href="services/brooklyn-non-cdl-driving-lessons.html">Non-CDL Driving Lessons</a></li>
+            </ul>
+          </li>
+          <li><a href="pricing.html">Pricing</a></li>
+          <li><a href="blog.html">Blog</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+        <i class="bi bi-list mobile-nav-toggle"></i>
+      </nav><!-- .navbar -->
+
+    </div>
+  </header><!-- End Header -->
+
+  <!-- ======= Hero Section ======= -->
+  <section id="hero">
+    <div class="hero-container">
+      <div id="heroCarousel" data-bs-interval="7000" class="carousel slide carousel-fade" data-bs-ride="carousel">
+
+        <ol class="carousel-indicators" id="hero-carousel-indicators"></ol>
+
+        <div class="carousel-inner" role="listbox">
+
+          <!-- Slide 1 -->
+          <div class="carousel-item active" style="background-image: url(assets/img/slide/slide-1.jpg)">
+            <div class="carousel-container">
+              <div class="carousel-content">
+                <h2 class="animate__animated animate__fadeInDown">
+                  <span>Red Hook Commercial </span>Driving School, Inc.
+                </h2>
+
+                <!-- Card start - no header -->
+                <div style="opacity: 0.8; display: flex; align-items: center; justify-content: center;">
+                  <div class="card bg-light mb-3 animate__animated animate__fadeInDown" style="max-width: 25rem;">
+                    <div class="card-body">
+                      <!-- style="border: 1px solid rgb(133, 133, 133);" -->
+                      <p class="card-text animate__animated animate__fadeInUp"
+                        style="width: 100%; font-size: 0.9rem; font-weight: 700;">
+                        30+ years in business!<br>CDL Lessons in Red Hook, Brooklyn! 
+                        Many thousands of our students became CDL drivers!<br>
+                        Join The Community!<br><br>
+                        <a href="about.html" class="btn-get-started animate__animated animate__fadeInUp">Learn More</a>
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <!-- Card end -->
+
+              </div>
+            </div>
+          </div>
+
+          <!-- Slide 2 -->
+          <div class="carousel-item" style="background: #fff;">
+            <div class="carousel-container">
+              <div class="carousel-content" ondrop="drop(event)" ondragover="allowDrop(event)">
+                <video id="myVideo" preload="auto" playsinline autoplay muted loop
+                  poster="assets/img/slide/slide3a_cabin.jpg">
+                  <source src="assets/img/slide/slide3a.mp4" type="video/mp4">
+                </video>
+
+                <!-- Card start -->
+                <div id="draggablecard1" style="opacity: 0.83;" draggable="true" ondragstart="drag(event)">
+                  <div id="draggablecardheader1"
+                    class="card text-white bg-dark mb-3 animate__animated animate__fadeInDown"
+                    style="max-width: 23rem;">
+                    <div class="card-header" style="border: 1px solid white">
+                      <h3 style="color: #e96b56; font-weight: 700; text-transform: uppercase;">Road to CDL</h3>
+                    </div>
+                    <div class="card-body" style="border: 1px solid white;">
+                      <p class="card-text animate__animated animate__fadeInUp"
+                        style="width: 100%; font-size: 0.9rem; font-weight: 500;">
+                        Road map from Permit to CDL License.<br>
+                        You will learn about Permit, Medical Exam, ELDT, Lessons, Road Test, etc.
+                      </p>
+                      <a href="CDL-process.html" class="btn-get-started animate__animated animate__fadeInUp">Learn More</a> <br><br>
+                    </div>
+                  </div>
+                </div>
+                <!-- Card end -->
+
+              </div>
+            </div>
+          </div>
+
+          <!-- Slide 3 -->
+          <div class="carousel-item" style="background-image: url(assets/img/slide/slide-3.jpg)">
+            <div class="carousel-container">
+              <div class="carousel-content">
+                <h2 class="animate__animated animate__fadeInDown"><span>ELDT Online</span></h2>
+
+                <!-- Card start - no header -->
+                <div style="opacity: 0.77; display: flex; align-items: center; justify-content: center;">
+                  <div class="card bg-light mb-3 animate__animated animate__fadeInDown" style="max-width: 25rem;">
+                    <div class="card-body" style="border: 1px solid rgb(133, 133, 133);">
+                      <p class="card-text animate__animated animate__fadeInUp"
+                        style="width: 100%; font-size: 0.93rem; font-weight: 700;">                        
+                        <span style="color: #e96b56">Feb 7, 2022 FMCSA Mandatory Requirement</span>
+                        <br>
+                        Students should enroll into <span style="color: #e96b56">ELDT</span><br>
+                        <span style="color: #e96b56; font-size: 20px;">E</span>ntry
+                        <span style="color: #e96b56; font-size: 20px;">L</span>evel
+                        <span style="color: #e96b56; font-size: 20px;">D</span>river
+                        <span style="color: #e96b56; font-size: 20px;">T</span>raining
+                        <br>before going to Road Test
+                        <br><br>
+                        <a href="services/brooklyn-eldt-lessons.html" class="btn-get-started animate__animated animate__fadeInUp" style="font-size: 1rem;">
+                          Please Read
+                        </a>
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <!-- Card end -->
+
+              </div>
+            </div>
+          </div>
+
+          <!-- Slide 4 -->
+          <div class="carousel-item" style="background-image: url(assets/img/slide/RedHookDS.jpg)">
+            <div class="carousel-container">
+              <div class="carousel-content" ondrop="drop(event)" ondragover="allowDrop(event)">
+
+                <!-- Card start -->
+                <div id="draggablecard2" style="opacity: 0.77;" draggable="true" ondragstart="drag(event)">
+                  <div id="draggablecardheader2" class="card bg-light mb-3 animate__animated animate__fadeInDown"
+                    style="max-width: 23rem;">
+                    <div class="card-header" style="border: 1px solid rgb(133, 133, 133);">
+                      <h3 style="color: #e96b56; font-weight: 700; text-transform: uppercase;">Driving Lessons</h3>
+                    </div>
+                    <div class="card-body" style="border: 1px solid rgb(133, 133, 133);;">
+                      <p class="card-text animate__animated animate__fadeInUp"
+                        style="width: 100%; font-size: 0.9rem; font-weight: 700;">
+                        Skills for Pre-trip Inspection, Driving, Parking, Backing Up and more.
+                        Hints To Pass Road Test <br> <br>
+                      </p>
+                      <a href="services/brooklyn-cdl-driving-lessons.html" class="btn-get-started animate__animated animate__fadeInUp">Learn More</a> <br><br>
+                    </div>
+                  </div>
+                </div>
+                <!-- Card end -->
+
+              </div>
+            </div>
+          </div>
+
+          <!-- Slide 5 -->
+          <div class="carousel-item" style="background-color: #fff;">
+            <div class="carousel-container">
+              <div class="carousel-content" ondrop="drop(event)" ondragover="allowDrop(event)">
+                <video id="myVideo2" preload="auto" playsinline autoplay muted loop
+                  poster="assets/img/slide/slide2a_cabin.jpg">
+                  <source src="assets/img/slide/slide2a.mp4" type="video/mp4">
+                </video>
+
+                <!-- Card start -->
+                <div id="draggablecard3" style="opacity: 0.83;" draggable="true" ondragstart="drag(event)">
+                  <div id="draggablecardheader3"
+                    class="card text-white bg-dark mb-3 animate__animated animate__fadeInDown"
+                    style="max-width: 23rem;">
+                    <div class="card-header" style="border: 1px solid white">
+                      <h3 style="color: #e96b56; font-weight: 700; text-transform: uppercase;">The Road Test</h3>
+                    </div>
+                    <div class="card-body" style="border: 1px solid white;">
+                      <p class="card-text animate__animated animate__fadeInUp"
+                        style="width: 100%; font-size: 1em; font-weight: 500; color: #fff;">
+                        Pre-Trip Inspection<br>The Basic Controls Test<br>On-Road Driving Test
+                      </p>
+                      <a href="services/booking-cdl-road-test.html" class="btn-get-started animate__animated animate__fadeInUp">Learn More</a> <br><br>
+                    </div>
+                  </div>
+                </div>
+                <!-- Card end -->
+
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <a class="carousel-control-prev" href="#heroCarousel" role="button" data-bs-slide="prev">
+          <span class="carousel-control-prev-icon bi bi-chevron-left" aria-hidden="true"></span>
+        </a>
+
+        <a class="carousel-control-next" href="#heroCarousel" role="button" data-bs-slide="next">
+          <span class="carousel-control-next-icon bi bi-chevron-right" aria-hidden="true"></span>
+        </a>
+
+      </div>
+    </div>
+  </section><!-- End Hero -->
+
+  <main id="main">
+
+    <!-- ======= Featured Section ======= https://www.wikihow.com/Get-a-CDL-License-in-New-York -->
+    <section id="featured" class="featured">
+      <div class="container">
+
+        <div class="row">
+          <div class="col-lg-4">
+            <div class="icon-box">
+              <i class="bi bi-person-workspace"></i>
+              <h3><a href="">Commercial Learner's Permit</a></h3>
+              <p>Get CDL Manual at the Local DMV or Online. Learn the material.   
+                Pass the written exam and get a Commercial Learner's Permit - valid for one year. Pass Medical examination for Interstate Driving.<br>
+                <a href="CDL-process.html">See detailed information over here.</a>
+              </p>
+            </div>
+          </div>
+          <div class="col-lg-4 mt-4 mt-lg-0">
+            <div class="icon-box">
+              <i class="bi bi-truck"></i>              
+              <h3><a href="">ELDT and Driving Lessons</a></h3>
+              <p>Enroll Online in Entry Level Driving Training (ELDT) or no road test admittance. 
+                Practice well for Pre-trip Inspection, Parking, Backing, Driving, etc. at our Driving School. 
+                 Schedule Road Test early.<br>
+                 <a href="blog/brooklyn-cdl-road-test-roadmap.html">See more information here</a>
+              </p>
+            </div>
+          </div>
+          <div class="col-lg-4 mt-4 mt-lg-0">
+            <div class="icon-box">              
+              <i class="bi bi-credit-card-2-front"></i>
+              <h3><a href="">The Road (Skills) Test</a></h3>
+              <p>Arrive early for the exam; have Non-Expired Driver's License and Commercial Learner Permit. 
+                Pass Vehicle Inspection, Basic Controls Test, and Road Test. Check with DMV for status.<br>
+                <a href="services/booking-cdl-road-test.html">Read more information here</a>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="hclass" style="width: 100%; display: flex; justify-content: center; margin-top: 25px;">
+        <h1>
+          Top Commercial Driving School in Brooklyn!
+        </h1> 
+      </div>
+
+      <div class="row" style="width: 100%; justify-content: center; padding: 30px;">
+        <div class="col-lg-4 col-md-6 d-flex align-items-stretch justify-content-center">          
+          <div class="icon-box" style="padding: 5px 15px;">
+            <p style="display: flex; width:100%; justify-content: center; text-transform: uppercase; font-size: 18px; font-weight: 550; padding: 10px; color: #e96b56;">              
+              Message From The Owner and The Team!
+            </p>
+            <iframe 
+              style="width: 450px; height: 270px;" 
+              src="https://www.youtube.com/embed/njDUQ5oBYBI" 
+              title="Red Hook Commercial Driving School - Message From The Owner and The Team" 
+              frameborder="0" 
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+              allowfullscreen>
+            </iframe>
+          </div>
+        </div>
+      </div>
+
+    </section><!-- End Featured Section -->
+
+  </main><!-- End #main -->
+
+  <!-- ======= Footer ======= -->
+  <footer id="footer">
+
+    <div class="footer-top">
+      <div class="container">
+        <div class="row">
+
+          <div class="col-lg-3 col-md-6 footer-links">
+            <h4>Useful Links</h4>
+            <ul>
+              <li><i class="bx bx-chevron-right"></i> <a href="index.html">Home</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="about.html">About Us</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="CDL-process.html">CDL Process</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="pricing.html">Pricing</a></li>              
+            </ul>
+          </div>
+
+          <div class="col-lg-3 col-md-6 footer-links">
+            <h4>Our Services</h4>
+            <ul>
+              <li><i class="bx bx-chevron-right"></i> <a href="services/brooklyn-cdl-driving-lessons.html">Driving Lessons</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="services/brooklyn-eldt-lessons.html">Online Training</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="services/booking-cdl-road-test.html">Road Test</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="services/brooklyn-non-cdl-driving-lessons.html">Non Commercial Driving Lessons</a></li>              
+            </ul>
+          </div>
+
+          <div class="col-lg-3 col-md-6 footer-contact" style="font-size: 0.77rem;">
+            <h4>Contact Us</h4>            
+            <p style="margin-top: 5px;">
+              <div><strong>Red Hook Commercial Driving School, Inc.</strong><br></div>              
+              <div style="margin-top: 15px;">
+                <strong>Address:</strong> 201 Ditmas Ave Brooklyn NY 11218<br>
+                <strong>Phones:</strong> (646) 250-5429 | (718) 743-9464<br>              
+                <strong>Email:</strong> info@redhookcdl.com<br>                
+              </div>
+              <div style="margin-top: 15px;">
+                <strong>Working Hours:</strong> Mon-Sun 8AM-8PM<br>
+              </div>
+            </p>
+          </div>
+          
+          <div class="col-lg-3 col-md-6 footer-info">          
+            <h4>About US</h4>
+            <p style="font-size: 0.87rem;">              
+              30+ years in business and helped tens of thousands to become CDL drivers!
+              We are one of the oldest and most experienced commercial driving schools in Brooklyn.
+              Get in touch and join us!
+            </p>
+            <div class="social-links mt-3">              
+              <a href="https://www.facebook.com/people/Red-Hook-Commercial-Driving-School-INC/100067190119635/" class="facebook" target="_blank"><i class="bi bi-facebook"></i></a>
+              <a href="index.html" class="instagram"><i class="bi bi-instagram"></i></a>
+              <a href="index.html" class="linkedin"><i class="bi bi-linkedin"></i></a>
+              <a href="https://youtu.be/njDUQ5oBYBI" class="youtube" target="_blank"><i class="bi bi-youtube"></i></a>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>    
+
+    <div class="container">
+      <div class="copyright">
+        &copy; Copyright <strong><span>Red Hook Commercial Driving School, Inc.</span></strong> All Rights Reserved
+      </div>
+      <div class="credits">
+        <!-- All the links in the footer should remain intact. -->
+        <!-- You can delete the links only if you purchased the pro version. -->
+        <!-- Licensing information: https://bootstrapmade.com/license/ -->
+        <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/eterna-free-multipurpose-bootstrap-template/ -->
+        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+      </div>
+    </div>
+  </footer><!-- End Footer -->
+
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i
+      class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/waypoints/noframework.waypoints.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+  <script src="assets/js/draggable.js"></script>
+
+</body>
+
+</html>

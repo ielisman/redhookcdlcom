@@ -1,0 +1,5 @@
+[
+    {"licenseNo": "ABC123", "firstName": "John", "last Name": "Doe",     "phone": "123-250-5429", "email": "johndoe@gmail.com",    "address": "12345 New Ave, Brooklyn NY 11235"},
+    {"licenseNo": "ABC345", "firstName": "Joe",  "last Name": "Doe",     "phone": "345-123-4567", "email": "joedoe@gmail.com",     "address": "123 Ave S, Brooklyn NY 11235"},
+    {"licenseNo": "ABC678", "firstName": "Sara", "last Name": "OConnor", "phone": "678-345-6789", "email": "saraconnor@gmail.com", "address": "123 NoRobots Ave, Brooklyn NY 11235"}
+]
